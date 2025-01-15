@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Titanic on iCosmoGeek</title>
+    <link>http://localhost:1313/tags/titanic/</link>
+    <description>Recent content in Titanic on iCosmoGeek</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/titanic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Depths: How Submarines Work and Navigate Underwater</title>
+      <link>http://localhost:1313/posts/2023-06-25-exploring-the-depths-how-submarines-work-and-navigate-underwater/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-06-25-exploring-the-depths-how-submarines-work-and-navigate-underwater/</guid>
+      <description>&lt;p&gt;Submarines are amazing machines that can travel deep underwater for long periods of time. They can perform various missions, such as military operations, scientific research, or underwater exploration. But how do submarines work and navigate underwater? How do they control their depth, speed, and direction? How do they communicate and locate targets? In this blog post, I will answer these questions and explain the basic principles and technologies behind submarine operation and navigation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
