@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on iCosmoGeek</title>
-    <link>https://example.org/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on iCosmoGeek</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chatgpt</title>
-      <link>https://example.org/tags/chatgpt/</link>
+      <link>//localhost:1313/tags/chatgpt/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/chatgpt/</guid>
+      <guid>//localhost:1313/tags/chatgpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Openai</title>
-      <link>https://example.org/tags/openai/</link>
+      <link>//localhost:1313/tags/openai/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/openai/</guid>
+      <guid>//localhost:1313/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Gandhi</title>
-      <link>https://example.org/tags/gandhi/</link>
+      <link>//localhost:1313/tags/gandhi/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gandhi/</guid>
+      <guid>//localhost:1313/tags/gandhi/</guid>
       <description></description>
     </item>
     <item>
       <title>Gandhijayanthi</title>
-      <link>https://example.org/tags/gandhijayanthi/</link>
+      <link>//localhost:1313/tags/gandhijayanthi/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/gandhijayanthi/</guid>
+      <guid>//localhost:1313/tags/gandhijayanthi/</guid>
       <description></description>
     </item>
     <item>
       <title>Mahatma</title>
-      <link>https://example.org/tags/mahatma/</link>
+      <link>//localhost:1313/tags/mahatma/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/mahatma/</guid>
+      <guid>//localhost:1313/tags/mahatma/</guid>
       <description></description>
     </item>
     <item>
       <title>Narendramodi</title>
-      <link>https://example.org/tags/narendramodi/</link>
+      <link>//localhost:1313/tags/narendramodi/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/narendramodi/</guid>
+      <guid>//localhost:1313/tags/narendramodi/</guid>
       <description></description>
     </item>
     <item>
       <title>Oceangate</title>
-      <link>https://example.org/tags/oceangate/</link>
+      <link>//localhost:1313/tags/oceangate/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/oceangate/</guid>
+      <guid>//localhost:1313/tags/oceangate/</guid>
       <description></description>
     </item>
     <item>
       <title>Submarine</title>
-      <link>https://example.org/tags/submarine/</link>
+      <link>//localhost:1313/tags/submarine/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/submarine/</guid>
+      <guid>//localhost:1313/tags/submarine/</guid>
       <description></description>
     </item>
     <item>
       <title>Titan</title>
-      <link>https://example.org/tags/titan/</link>
+      <link>//localhost:1313/tags/titan/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/titan/</guid>
+      <guid>//localhost:1313/tags/titan/</guid>
       <description></description>
     </item>
     <item>
       <title>Titanic</title>
-      <link>https://example.org/tags/titanic/</link>
+      <link>//localhost:1313/tags/titanic/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/titanic/</guid>
+      <guid>//localhost:1313/tags/titanic/</guid>
       <description></description>
     </item>
     <item>
       <title>Elon-Musk</title>
-      <link>https://example.org/tags/elon-musk/</link>
+      <link>//localhost:1313/tags/elon-musk/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/elon-musk/</guid>
+      <guid>//localhost:1313/tags/elon-musk/</guid>
       <description></description>
     </item>
     <item>
       <title>Twitter</title>
-      <link>https://example.org/tags/twitter/</link>
+      <link>//localhost:1313/tags/twitter/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/twitter/</guid>
+      <guid>//localhost:1313/tags/twitter/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft-Ceo</title>
-      <link>https://example.org/tags/microsoft-ceo/</link>
+      <link>//localhost:1313/tags/microsoft-ceo/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/microsoft-ceo/</guid>
+      <guid>//localhost:1313/tags/microsoft-ceo/</guid>
       <description></description>
     </item>
   </channel>

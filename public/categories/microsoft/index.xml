@@ -2,124 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Microsoft on iCosmoGeek</title>
-    <link>https://example.org/categories/microsoft/</link>
+    <link>//localhost:1313/categories/microsoft/</link>
     <description>Recent content in Microsoft on iCosmoGeek</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/microsoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bringing the power of Azure, AI and Azure Sphere to Cricket</title>
-      <link>https://example.org/posts/2018-10-14-bringing-the-power-of-azure-ai-and-azure-sphere-to-cricket/</link>
+      <link>//localhost:1313/posts/2018-10-14-bringing-the-power-of-azure-ai-and-azure-sphere-to-cricket/</link>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2018-10-14-bringing-the-power-of-azure-ai-and-azure-sphere-to-cricket/</guid>
+      <guid>//localhost:1313/posts/2018-10-14-bringing-the-power-of-azure-ai-and-azure-sphere-to-cricket/</guid>
       <description>&lt;p&gt;Satya Nadella, CEO of Microsoft. “Together with Spektacom and Star Sports, we are bringing the power of Azure and Azure Sphere to one of the world’s most celebrated games – cricket –  transforming how it’s played, coached and watched.”&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://news.microsoft.com/en-in/features/anil-kumble-spektacom-power-bat-microsoft-ai/&#34;&gt;Read More&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft and Alibaba Artificial Intelligence Beat Humans in Reading Test</title>
-      <link>https://example.org/posts/2018-01-17-microsoft-and-alibaba-artificial-intelligence-beat-humans-in-reading-test/</link>
+      <link>//localhost:1313/posts/2018-01-17-microsoft-and-alibaba-artificial-intelligence-beat-humans-in-reading-test/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2018-01-17-microsoft-and-alibaba-artificial-intelligence-beat-humans-in-reading-test/</guid>
+      <guid>//localhost:1313/posts/2018-01-17-microsoft-and-alibaba-artificial-intelligence-beat-humans-in-reading-test/</guid>
       <description>&lt;p&gt;They have beaten us at chess, co-written a pop album. Now computers are taking a step ahead into human world: the reading comprehension test.&lt;/p&gt;
 &lt;p&gt;In the test administered last week, Microsoft and Alibaba subjected their artificial intelligence systems to queries from the &lt;a href=&#34;https://rajpurkar.github.io/SQuAD-explorer/&#34;&gt;Stanford Question Answering Dataset&lt;/a&gt;, which assessed reading comprehension. The computers’ answers were compared against average human responses and ranked.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blogs.microsoft.com/ai/microsoft-creates-ai-can-read-document-answer-questions-well-person/&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 10 Fall Creators Update will be available starting on Oct. 17</title>
-      <link>https://example.org/posts/2017-09-01-windows-10-fall-creators-update-will-be-available-starting-on-oct-17/</link>
+      <link>//localhost:1313/posts/2017-09-01-windows-10-fall-creators-update-will-be-available-starting-on-oct-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2017-09-01-windows-10-fall-creators-update-will-be-available-starting-on-oct-17/</guid>
+      <guid>//localhost:1313/posts/2017-09-01-windows-10-fall-creators-update-will-be-available-starting-on-oct-17/</guid>
       <description>&lt;p&gt;Windows 10 Fall Creators Update will be available starting on Oct. 17, along with the first Windows Mixed Reality headsets from third-party hardware makers, but no timeline feature. The new version will include revamped Windows Inking technology, better OneDrive integration to access files on demand, security upgrades, a new Game Mode that provides more processing power for video games, and a new feature in the Windows Photos app called Story Remix for combining photos, videos, 3D technology and ink to tell stories and annotate video. Official Announcement:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft’s Cortana and Amazon’s Alexa will begin “talking to each other”</title>
-      <link>https://example.org/posts/2017-08-30-microsofts-cortana-and-amazons-alexa-will-begin-talking-to-each-other/</link>
+      <link>//localhost:1313/posts/2017-08-30-microsofts-cortana-and-amazons-alexa-will-begin-talking-to-each-other/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2017-08-30-microsofts-cortana-and-amazons-alexa-will-begin-talking-to-each-other/</guid>
+      <guid>//localhost:1313/posts/2017-08-30-microsofts-cortana-and-amazons-alexa-will-begin-talking-to-each-other/</guid>
       <description>&lt;p&gt;Microsoft’s Cortana and Amazon’s Alexa will begin “talking to each other”&lt;/p&gt;
 &lt;p&gt;Read more:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/&#34;&gt;https://blogs.microsoft.com/blog/2017/08/30/hey-cortana-open-alexa-microsoft-amazons-first-kind-collaboration/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft unveils Windows 10 S, a more powerful competitor to Chrome OS</title>
-      <link>https://example.org/posts/2017-05-02-microsoft-unveils-windows-10-s-a-more-powerful-competitor-to-chrome-os/</link>
+      <link>//localhost:1313/posts/2017-05-02-microsoft-unveils-windows-10-s-a-more-powerful-competitor-to-chrome-os/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2017-05-02-microsoft-unveils-windows-10-s-a-more-powerful-competitor-to-chrome-os/</guid>
+      <guid>//localhost:1313/posts/2017-05-02-microsoft-unveils-windows-10-s-a-more-powerful-competitor-to-chrome-os/</guid>
       <description>&lt;p&gt;At its event in New York today, Microsoft announced a new iteration of Windows 10: Windows 10 S - Microsoft challenger to Chrome OS. Microsoft is calling it a “streamlined” version of Windows 10, optimized to run on lower end hardware. The OS is limited to only run apps from the Window Store, but they can still be full Win32 apps – they simply have to be available from the store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nokia brings folders and other features to Windows Phone with its Lumia Black Update</title>
-      <link>https://example.org/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/</link>
+      <link>//localhost:1313/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/</guid>
+      <guid>//localhost:1313/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/</guid>
       <description>&lt;p&gt;From today, Nokia is rolling out new Lumia Black software update bringing new App Folder interface that allows Windows Phone users to stack apps and settings into a folder Tile on the Start Screen. This update is first scheduled to roll out to  Lumia 1020 and and Lumia 925 devices from today. Other Lumia models will be updated in next coming weeks.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2014/01/folder_800.jpg&#34;&gt;&lt;img alt=&#34;Nokia Lumia Black Update&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/images/folder_800.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2014/01/folder_800.jpg&#34;&gt;&lt;img alt=&#34;Nokia Lumia Black Update&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2014-01-09-nokia-brings-folders-features-windows-phone-lumia-black-update/images/folder_800.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Other bunch of updates include - rotation lock, custom tones for messages, emails, and reminders, and a new Driving Mode feature that’s designed to limit notifications while you’re driving. Multitasking improvements, including the ability to close apps, are also included.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft reportedly narrows its future CEO to Ford, Nokia, Skype and Azure leaders</title>
-      <link>https://example.org/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/</link>
+      <link>//localhost:1313/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/11/20131105-195328.jpg&#34;&gt;&lt;img alt=&#34;20131105-195328.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/images/20131105-195328.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>//localhost:1313/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/11/20131105-195328.jpg&#34;&gt;&lt;img alt=&#34;20131105-195328.jpg&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-11-06-microsoft-reportedly-narrows-its-future-ceo-to-ford-nokia-skype-and-azure-leaders/images/20131105-195328.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Reuters is reporting that the company now has a shortlist of just about five names, including Ford CEO Alan Mulally, former Nokia CEO Stephen Elop, Microsoft cloud boss Satya Nadella, and former Skype president Tony Bates.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.reuters.com/article/2013/11/06/us-microsoft-ceo-idUSBRE9A500A20131106&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Steve Ballmer&#39;s Emotional Exit Speech Leaks [Video]</title>
-      <link>https://example.org/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/</link>
+      <link>//localhost:1313/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/</link>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/</guid>
+      <guid>//localhost:1313/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s CEO Steve Ballmer is one of the world&amp;rsquo;s hardest charging executives. He moved to tears on Thursday which is likely his last annual company meeting with employees.&lt;/p&gt;
 &lt;p&gt;This video to 13,000 Microsoft employees in Seattle shows him crying as he says farewell after 13 years as CEO of the company and another 20 years by founder Bill Gates&amp;rsquo; side before that.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/09/ballmer51.jpg&#34;&gt;&lt;img alt=&#34;Steve Ballmer Emotional&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/images/ballmer51.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/09/ballmer51.jpg&#34;&gt;&lt;img alt=&#34;Steve Ballmer Emotional&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-09-29-steve-ballmers-emotional-exit-speech-leaks-video/images/ballmer51.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A couple of months ago, Microsoft confirmed that he would be retiring in couple of months and the company is in the search for a new CEO.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Officially Talks Windows 8.1: Start Button, Boot To Desktop, IE11</title>
-      <link>https://example.org/posts/2013-05-30-microsoft-officially-talks-windows-8-1-start-button-boot-to-desktop-ie11/</link>
+      <link>//localhost:1313/posts/2013-05-30-microsoft-officially-talks-windows-8-1-start-button-boot-to-desktop-ie11/</link>
       <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-05-30-microsoft-officially-talks-windows-8-1-start-button-boot-to-desktop-ie11/</guid>
+      <guid>//localhost:1313/posts/2013-05-30-microsoft-officially-talks-windows-8-1-start-button-boot-to-desktop-ie11/</guid>
       <description>&lt;p&gt;Windows 8.1 update is coming soon and Microsoft officially discussed several things about the new changes that are going to be available in this update. Major improvements include Start Button, Boot to Desktop, IE 11, deep SkyDrive integration, etc. This update is free to Windows 8 users and preview build is expected to be released sometime around June 26. Carry on reading to find out what’s new in Windows 8.1.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Start Button Is Back In Leaked Windows 8.1</title>
-      <link>https://example.org/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/</link>
+      <link>//localhost:1313/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/</link>
       <pubDate>Wed, 29 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/</guid>
+      <guid>//localhost:1313/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/</guid>
       <description>&lt;p&gt;Welcome back &lt;strong&gt;Start Button&lt;/strong&gt;! Microsoft seems to be really listening to Windows 8 users. We now have a leaked screenshot of the latest Windows 8.1 preview leaked build.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/windows-8-logo1.jpg&#34;&gt;&lt;img alt=&#34;windows-8-logo1&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/images/windows-8-logo1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/windows-8-logo1.jpg&#34;&gt;&lt;img alt=&#34;windows-8-logo1&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-05-29-start-button-is-back-in-leaked-windows-8-1/images/windows-8-logo1.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Paul Thurrott from &lt;a href=&#34;http://winsupersite.com/windows-8/blue-start-experience-changes&#34;&gt;WinSuperSite&lt;/a&gt; posted some screenshots showing the brand new Start button fashioned as a Windows 8 icon.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;When you hover over Start button, the button changes color, with a black background and the accent color used on the flag logo. Yes, it looks exactly like the Start Charm, with similar animations&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internal Microsoft Video Criticizing Google Chrome &#39;Now Everywhere&#39;</title>
-      <link>https://example.org/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/</link>
+      <link>//localhost:1313/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/</link>
       <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/</guid>
+      <guid>//localhost:1313/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/</guid>
       <description>&lt;p&gt;On the same day Google CEO Larry Page spoke out against &amp;ldquo;negativity&amp;rdquo; in the tech industry, we&amp;rsquo;ve just come across an internal Microsoft video criticizing Google Chrome &amp;lsquo;Now Everywhere&amp;rsquo; video.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/Capture.jpg&#34;&gt;&lt;img alt=&#34;Chrome Now Everywhere Microsoft Parody&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/images/Capture.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/Capture.jpg&#34;&gt;&lt;img alt=&#34;Chrome Now Everywhere Microsoft Parody&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-05-15-internal-microsoft-video-criticizing-google-chrome-now-everywhere/images/Capture.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Larry Page said:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“I’ve personally been quite sad at the industry’s behavior around all these things. If you take something as simple as IM, we’ve had an open offer to interoperate forever&amp;hellip;.Just this week Microsoft took advantage of that by interoperating with us. You can’t have people milking off of just one company.”&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emotional Bill Gates Discusses Final Conversations with Steve Jobs [Video]</title>
-      <link>https://example.org/posts/2013-05-13-emotional-bill-gates-discusses-final-conversations-with-steve-jobs-video/</link>
+      <link>//localhost:1313/posts/2013-05-13-emotional-bill-gates-discusses-final-conversations-with-steve-jobs-video/</link>
       <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-05-13-emotional-bill-gates-discusses-final-conversations-with-steve-jobs-video/</guid>
+      <guid>//localhost:1313/posts/2013-05-13-emotional-bill-gates-discusses-final-conversations-with-steve-jobs-video/</guid>
       <description>&lt;p&gt;We’ve heard Bill Gates talk about his last, emotional meeting with Steve Jobs before. First in the Walter Isaacson Steve Jobs biography and then again in a video interview with ABC, but last night Bill Gates once again discussed the final conversations in an interview with &lt;em&gt;60 Minutes.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In the following unaired footage from the interviews, Gates said he was able to spend time with Jobs while the then Steve was sick and that they discussed what the two had learned growing up as titans of the tech industry, families and other topics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Confirms Windows Blue Update</title>
-      <link>https://example.org/posts/2013-05-07-microsoft-confirms-windows-blue-update/</link>
+      <link>//localhost:1313/posts/2013-05-07-microsoft-confirms-windows-blue-update/</link>
       <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-05-07-microsoft-confirms-windows-blue-update/</guid>
+      <guid>//localhost:1313/posts/2013-05-07-microsoft-confirms-windows-blue-update/</guid>
       <description>&lt;p&gt;Microsoft confirms long &lt;a href=&#34;http://icosmogeek.com/next-gen-microsoft-office-is-codenamed-gemini/&#34;&gt;rumored&lt;/a&gt; Windows update - Blue. In a post, Microsoft confirmed that the Windows Blue update will be coming later this year and will allow Windows 8 to run on a number of different sized devices that will be able to combine the capabilities of a PC with some criticisms of Windows 8 and Windows RT.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/windows-blue-download.jpg&#34;&gt;&lt;img alt=&#34;windows blue&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-05-07-microsoft-confirms-windows-blue-update/images/windows-blue-download.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/05/windows-blue-download.jpg&#34;&gt;&lt;img alt=&#34;windows blue&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-05-07-microsoft-confirms-windows-blue-update/images/windows-blue-download.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Microsoft’s Tami Reller said in a blog post,&lt;/p&gt;
 &lt;blockquote&gt;
@@ -127,99 +127,99 @@
     </item>
     <item>
       <title>WSJ: Microsoft Reportedly Working On Smartwatch</title>
-      <link>https://example.org/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/</link>
+      <link>//localhost:1313/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/</guid>
+      <guid>//localhost:1313/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/</guid>
       <description>&lt;p&gt;There has been a lot of ink spilled on rumored offerings expected to be coming from Apple, Samsung, LG and now Microsoft. According to the Wall Street Journal, Microsoft is also working with suppliers on designs for touch enabled watch device.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/04/555114_10151629161012952_1881567370_n.jpg&#34;&gt;&lt;img alt=&#34;Microsoft Smartwatch&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/images/555114_10151629161012952_1881567370_n.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/04/555114_10151629161012952_1881567370_n.jpg&#34;&gt;&lt;img alt=&#34;Microsoft Smartwatch&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-04-15-wsj-microsoft-reportedly-working-on-smartwatch/images/555114_10151629161012952_1881567370_n.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;According to the &lt;a href=&#34;http://online.wsj.com/article/SB10001424127887324485004578423522275087936.html&#34;&gt;report&lt;/a&gt;, Microsoft is working on designs for smart-watch and asked Asian suppliers to send over components. One of the executives who work for the suppliers claims that Microsoft was asking for 1.5 inch displays.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Next-gen Microsoft Office is codenamed “Gemini”</title>
-      <link>https://example.org/posts/2013-03-27-next-gen-microsoft-office-is-codenamed-gemini/</link>
+      <link>//localhost:1313/posts/2013-03-27-next-gen-microsoft-office-is-codenamed-gemini/</link>
       <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-03-27-next-gen-microsoft-office-is-codenamed-gemini/</guid>
+      <guid>//localhost:1313/posts/2013-03-27-next-gen-microsoft-office-is-codenamed-gemini/</guid>
       <description>&lt;p&gt;Windows Blue, Windows Server Blue, Windows Phone Blue, Windows Services Blue. The one thing missing from this list of next-generation Microsoft releases is a Blue version of Office. Is there one? Microsoft’s next generation of Office software looks like it’s going to be a rebel and not follow Microsoft’s new “Blue” codename.&lt;/p&gt;
 &lt;p&gt;The software will instead go by the codename “Gemini”, and it will be composed of two waves that will be released over the next two years. The first wave will be released alongside Windows Blue, and will bring updates to Microsoft Word, Excel, PowerPoint, and OneNote.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Temple Run is finally coming to Windows Phone</title>
-      <link>https://example.org/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/</link>
+      <link>//localhost:1313/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/</link>
       <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/</guid>
+      <guid>//localhost:1313/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/</guid>
       <description>&lt;p&gt;One of the top mobile games, Temple Run is finally coming to Windows Phone. Microsoft is actually bit late with this popular game. The original Temple Run has more than 170 million downloads since its launch in 2011, and there is already a Temple Run 2 available for play on iOS and Android.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/03/734519_536700246353757_1504637943_n.jpg&#34;&gt;&lt;img alt=&#34;Temple Run &#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/images/734519_536700246353757_1504637943_n.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/03/734519_536700246353757_1504637943_n.jpg&#34;&gt;&lt;img alt=&#34;Temple Run &#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-03-27-temple-run-is-finally-coming-to-windows-phone/images/734519_536700246353757_1504637943_n.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Microsoft just &lt;a href=&#34;http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/03/27/new-middleware-makes-porting-games-to-windows-phone-easy.aspx&#34;&gt;announced&lt;/a&gt; at this week&amp;rsquo;s Game Developer&amp;rsquo;s conference that Temple Run, along with other titles including Chaos Rings, Gravity Guy 2, 6th Planet, Propel Man, Fling Theory, Orcs Must Survive, Ruzzle and Drift Mania Championship 2 will soon be available on Windows Store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Official Twitter App For Windows 8 Now Available</title>
-      <link>https://example.org/posts/2013-03-14-official-twitter-app-for-windows-8-now-available/</link>
+      <link>//localhost:1313/posts/2013-03-14-official-twitter-app-for-windows-8-now-available/</link>
       <pubDate>Thu, 14 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-03-14-official-twitter-app-for-windows-8-now-available/</guid>
+      <guid>//localhost:1313/posts/2013-03-14-official-twitter-app-for-windows-8-now-available/</guid>
       <description>&lt;p&gt;Official twitter app for Windows 8 is now available for download. It is available in the Windows Store now in 22 languages which brings the Home / Connect / Discover / Me tabs found in other official apps, plus support for Windows new UI features like snap view, the search charm and Live Tiles.&lt;/p&gt;
 &lt;p&gt;You can download the app from this &lt;a href=&#34;http://apps.microsoft.com/windows/app/twitter/8289549f-9bae-4d44-9a5c-63d9c3a79f35&#34;&gt;link&lt;/a&gt; and read more about in official Twitter blog post over &lt;a href=&#34;http://blog.twitter.com/2013/03/welcome-twitter-for-windows-8.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Reset Domain Admin Password on Windows Server 2008 R2</title>
-      <link>https://example.org/posts/2013-01-23-how-to-reset-domain-admin-password-on-windows-server-2008-r2/</link>
+      <link>//localhost:1313/posts/2013-01-23-how-to-reset-domain-admin-password-on-windows-server-2008-r2/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-01-23-how-to-reset-domain-admin-password-on-windows-server-2008-r2/</guid>
+      <guid>//localhost:1313/posts/2013-01-23-how-to-reset-domain-admin-password-on-windows-server-2008-r2/</guid>
       <description>&lt;p&gt;One of my friends recently contacted me to help reset domain admin password on Windows Server 2008 R2 domain controller that I helped him set up a year back. There are many tools in the market which help resetting administrator password. In fact, most of them help in resetting local administrator password, but not domain administrator password.&lt;/p&gt;
 &lt;p&gt;Here is an easy way to reset your Domain Administrator password. All you need is a copy of the Windows Server 2008 R2 installation disk and one simple command line trick.&lt;/p&gt;</description>
     </item>
     <item>
       <title>People Hate Windows 8? This Can&#39;t Be A Good Sign!</title>
-      <link>https://example.org/posts/2013-01-23-people-hate-windows-8-this-cant-be-a-good-sign/</link>
+      <link>//localhost:1313/posts/2013-01-23-people-hate-windows-8-this-cant-be-a-good-sign/</link>
       <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-01-23-people-hate-windows-8-this-cant-be-a-good-sign/</guid>
+      <guid>//localhost:1313/posts/2013-01-23-people-hate-windows-8-this-cant-be-a-good-sign/</guid>
       <description>&lt;p&gt;Love it or hate it, you will get a new laptop pre-installed with Windows 8. The new UI is pretty gorgeous, but you&amp;rsquo;re confused! Something weird, you can&amp;rsquo;t find your own files easily as they have for the past 10 years. It&amp;rsquo;s just an unpleasant dream and you just want your old Windows back?&lt;/p&gt;
 &lt;p&gt;Well, don&amp;rsquo;t worry! There are Microsoft Certified Professionals who can help you with downgrade option to Windows 7. And for that, they&amp;rsquo;ll charge you $125 only! This can&amp;rsquo;t be a good sign for the software giant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yahoo Employees Getting Free Smartphones Including iPhone 5</title>
-      <link>https://example.org/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/</link>
+      <link>//localhost:1313/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/</link>
       <pubDate>Sun, 16 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/</guid>
+      <guid>//localhost:1313/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/</guid>
       <description>&lt;p&gt;The former Google executive, Yahoo&amp;rsquo;s new CEO &lt;a href=&#34;http://icosmogeek.com/10-things-to-know-about-ex-googler-new-yahoo-ceo-marissa-mayer/&#34;&gt;Marissa Mayer&lt;/a&gt; just sent out a memo to all its full-time and part-time employees in the US of getting free smartphones including iPhone 5. This is part of the new program at Yahoo calling &amp;ldquo;Yahoo! Smart Phones, Smart Fun!&amp;rdquo;. The company is also going to pay the employees data and phone bills.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/yahoo-employees-getting-free-smartphones-including-iphone-5/marissa-mayer/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/images/Marissa-Mayer.jpg&#34; title=&#34;Marissa Mayer&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/yahoo-employees-getting-free-smartphones-including-iphone-5/marissa-mayer/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-09-16-yahoo-employees-getting-free-smartphones-including-iphone-5/images/Marissa-Mayer.jpg&#34; title=&#34;Marissa Mayer&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[&lt;a href=&#34;http://www.flickr.com/photos/leweb3/6476473075/sizes/z/in/photostream/&#34;&gt;Credit&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;According to &lt;a href=&#34;http://www.businessinsider.com/marissa-mayer-just-gave-every-yahoo-employee-an-iphone-5-2012-9&#34;&gt;Business Insider&lt;/a&gt;, Yahoo employees have the option of choosing the phones from Apple, Samsung, Nokia and HTC. The list of smartphones include iPhone 5, Samsung Galaxy S3, HTC One X, HTC EVO 4G LTE, or Nokia Lumia 920. These are the top phones on the market today and they will be replacing the BlackBerries that Yahoo employees were given up until this point.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why You Won&#39;t Pay $0.99 For Apps, But Will Spend $7.15 For Coffee</title>
-      <link>https://example.org/posts/2012-08-21-why-you-wont-pay-0-99-for-apps-but-will-spend-7-15-for-cofee/</link>
+      <link>//localhost:1313/posts/2012-08-21-why-you-wont-pay-0-99-for-apps-but-will-spend-7-15-for-cofee/</link>
       <pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-08-21-why-you-wont-pay-0-99-for-apps-but-will-spend-7-15-for-cofee/</guid>
+      <guid>//localhost:1313/posts/2012-08-21-why-you-wont-pay-0-99-for-apps-but-will-spend-7-15-for-cofee/</guid>
       <description>&lt;p&gt;We say this again and again - I am sure many of you who download apps from Apple App Store or Google Play or any other platform must have thought about it. Why should I pay 99 cents for this app? Is it really worth? But at the same time, when you visit your favorite coffee shop (Starbucks?) for a $7.15 coffee, you won&amp;rsquo;t think much about it. Why?&lt;/p&gt;
 &lt;p&gt;Designer and software developer, Josh Lehman did a fantastic analysis on why people won&amp;rsquo;t pay $0.99 for apps, but will spend $7.15 for coffee.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bill Gates On India, China, Philanthropy, Technology and More</title>
-      <link>https://example.org/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/</link>
+      <link>//localhost:1313/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/</link>
       <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/</guid>
+      <guid>//localhost:1313/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/</guid>
       <description>&lt;p&gt;In this recent interview for Bloomberg&amp;rsquo;s Charlie Rose, Microsoft co-founder Bill Gates talks quite a bit about India, China relative to technology, Philanthropy, Technology industry, how US Politics slow down innovation and much more.&lt;/p&gt;
 &lt;p&gt;Its worth to spend around one hour of your time watching this video which was aired in the first week of July on Bloomberg&amp;rsquo;s network.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/bill-gates-on-india-china-philanthropy-tech-industry-and-more/bill-gates-on-philantropy-tech-industry/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/images/Bill-Gates-on-Philantropy-Tech-Industry.jpg&#34; title=&#34;Bill Gates on Philantropy, Tech Industry&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/bill-gates-on-india-china-philanthropy-tech-industry-and-more/bill-gates-on-philantropy-tech-industry/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-08-06-bill-gates-on-india-china-philanthropy-tech-industry-and-more/images/Bill-Gates-on-Philantropy-Tech-Industry.jpg&#34; title=&#34;Bill Gates on Philantropy, Tech Industry&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The interview starts with an intro of Bill Gates on his &lt;a href=&#34;http://icosmogeek.com/bill-gates-on-why-he-went-to-india-recently/&#34;&gt;latest visit to India&lt;/a&gt;, what differs India from China relative to technology and his opinion of where each excels, etc. I have listed out some interesting from the video below:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 8 Retail Packaging Leaked [Pictures]</title>
-      <link>https://example.org/posts/2012-08-06-windows-8-retail-packaging-leaked-pictures/</link>
+      <link>//localhost:1313/posts/2012-08-06-windows-8-retail-packaging-leaked-pictures/</link>
       <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-08-06-windows-8-retail-packaging-leaked-pictures/</guid>
+      <guid>//localhost:1313/posts/2012-08-06-windows-8-retail-packaging-leaked-pictures/</guid>
       <description>&lt;p&gt;Just after Microsoft announced the final copy of its next generation operating system, Windows 8 is ready to ship, the build ISO is already &lt;a href=&#34;https://twitter.com/k_avinash/status/231153134041460737&#34;&gt;leaked online&lt;/a&gt; and available on several torrent sites, here is now the boxed copy is going to look like. This picture below will be how Microsoft is going to pack its Windows 8 to sell in retail stores from &lt;a href=&#34;http://icosmogeek.com/official-now-windows-8-to-go-sale-on-october-26/&#34;&gt;October 26&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Microsoft has chosen to display its Metro Style (&lt;a href=&#34;https://twitter.com/k_avinash/status/231248948306792449&#34;&gt;stop calling it as Metro!&lt;/a&gt;) logo on the packaging. Are you excited to upgrade your PC?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Official Now! Windows 8 To Go Sale On October 26</title>
-      <link>https://example.org/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/</link>
+      <link>//localhost:1313/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/</link>
       <pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/</guid>
+      <guid>//localhost:1313/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s next generation operating system, Windows 8 will be available to customers from Friday, October 26, 2012.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/07/Windows-8-Availability.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/images/Windows-8-Availability-1024x681.jpg&#34; title=&#34;Windows 8 Availability&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/07/Windows-8-Availability.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-07-19-official-now-windows-8-to-go-sale-on-october-26/images/Windows-8-Availability-1024x681.jpg&#34; title=&#34;Windows 8 Availability&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;According to official blog &lt;a href=&#34;http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/07/18/windows-8-will-be-available-on.aspx&#34;&gt;post&lt;/a&gt;, Steven Sinofsky announced at Microsoft’s annual sales meeting that customers will be able to get Windows 8 – whether in upgrade fashion or on a new PC – starting on October 26th.&lt;/p&gt;
 &lt;p&gt;New to Windows 8? Start reading about it in the following posts -&lt;/p&gt;
 &lt;ol&gt;
@@ -231,172 +231,172 @@
     </item>
     <item>
       <title>Google To Pay $22.5 Million Fine For Safari Privacy Breach. Boon For Bing?</title>
-      <link>https://example.org/posts/2012-07-12-google-to-pay-22-5-million-fine-for-safari-privacy-debacle/</link>
+      <link>//localhost:1313/posts/2012-07-12-google-to-pay-22-5-million-fine-for-safari-privacy-debacle/</link>
       <pubDate>Thu, 12 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-07-12-google-to-pay-22-5-million-fine-for-safari-privacy-debacle/</guid>
+      <guid>//localhost:1313/posts/2012-07-12-google-to-pay-22-5-million-fine-for-safari-privacy-debacle/</guid>
       <description>&lt;p&gt;If you remember, Google was caught overriding Apple Safari browser privacy settings back in February, 2012. Now, after nine months the tech giant has a preliminary deal in place with the U.S. Federal Trade Commission (FTC) to pay a $22.5 million fine for this whole breach.&lt;/p&gt;
 &lt;p&gt;This fine could be the largest penalty on a single company by FTC. Even though it won&amp;rsquo;t be a big blow for Google which draws in this sort of cash in around just five hours, but it does cast an impact over the company in terms of legal arguments and practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 8 Pro Upgrade To Cost $39.99 Online Or $69.99 In-Store</title>
-      <link>https://example.org/posts/2012-07-03-windows-8-pro-upgrade-to-cost-39-99-online-or-69-99-in-store/</link>
+      <link>//localhost:1313/posts/2012-07-03-windows-8-pro-upgrade-to-cost-39-99-online-or-69-99-in-store/</link>
       <pubDate>Tue, 03 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-07-03-windows-8-pro-upgrade-to-cost-39-99-online-or-69-99-in-store/</guid>
+      <guid>//localhost:1313/posts/2012-07-03-windows-8-pro-upgrade-to-cost-39-99-online-or-69-99-in-store/</guid>
       <description>&lt;p&gt;Microsoft has just announced the upgrade cost for Windows 8 Pro edition from all versions of Windows XP and above. If a user is running Windows XP, Windows Vista, or Windows 7, they’ll be able to upgrade their OS with a simple download that’ll only cost them $39.99 online or $69.99 DVD. This upgrade will be available at the same time the full cost software release is dropped.&lt;/p&gt;
 &lt;p&gt;This is the same approach Apple followed with its Lion announcement last summer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Surface Tablet vs. Apple iPad Keynote [Video]</title>
-      <link>https://example.org/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/</link>
+      <link>//localhost:1313/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/</guid>
+      <guid>//localhost:1313/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/</guid>
       <description>&lt;p&gt;Did the latest &lt;a href=&#34;http://icosmogeek.com/microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/&#34;&gt;Microsoft Surface tablet&lt;/a&gt; copy Apple&amp;rsquo;s iPad? Including keynote? &lt;a href=&#34;http://www.readwriteweb.com/archives/video-surface-vs-ipad-microsofts-getting-rusty-at-stealing-from-apple.php&#34;&gt;RWW&lt;/a&gt; compares Surface (2012) and iPad (2010) announcements.&lt;/p&gt;
 &lt;p&gt;Enjoy the video after the picture!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Microsoft-Surface-Tablet-vs.-Apple-iPad.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/images/Microsoft-Surface-Tablet-vs.-Apple-iPad.png&#34; title=&#34;Microsoft Surface Tablet vs. Apple iPad&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Microsoft-Surface-Tablet-vs.-Apple-iPad.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-06-22-microsoft-surface-tablet-vs-apple-ipad-keynote-video/images/Microsoft-Surface-Tablet-vs.-Apple-iPad.png&#34; title=&#34;Microsoft Surface Tablet vs. Apple iPad&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Microsoft Unveiled Windows Phone 8, Not Compatible With Current Devices</title>
-      <link>https://example.org/posts/2012-06-21-microsoft-unveiled-windows-phone-8-not-compatible-with-current-devices/</link>
+      <link>//localhost:1313/posts/2012-06-21-microsoft-unveiled-windows-phone-8-not-compatible-with-current-devices/</link>
       <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-21-microsoft-unveiled-windows-phone-8-not-compatible-with-current-devices/</guid>
+      <guid>//localhost:1313/posts/2012-06-21-microsoft-unveiled-windows-phone-8-not-compatible-with-current-devices/</guid>
       <description>&lt;p&gt;Microsoft unveiled its next version of mobile operating system - Windows Phone 8 this morning at the Windows Phone Developer summit. Many of the improvements and added features to Windows Phone 7 are now making their way back to the desktop, in the form of Windows 8.&lt;/p&gt;
 &lt;p&gt;Windows Phone 8 enhances the current version and brings some new functionalities competing directly with Apple&amp;rsquo;s &lt;a href=&#34;http://icosmogeek.com/new-ios6-the-best-features-in-one-single-post/&#34;&gt;iOS 6.&lt;/a&gt; Unfortunately, Windows Phone 8 will not be compatible with current devices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Surface Tablet Might Not Kill iPad, But Will Revive Microsoft [Update on Launch Day]</title>
-      <link>https://example.org/posts/2012-06-19-microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/</link>
+      <link>//localhost:1313/posts/2012-06-19-microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/</link>
       <pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-19-microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/</guid>
+      <guid>//localhost:1313/posts/2012-06-19-microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/</guid>
       <description>&lt;p&gt;While tech media been buzzing about Microsoft&amp;rsquo;s mystery &lt;a href=&#34;http://icosmogeek.com/microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/&#34;&gt;event&lt;/a&gt; from past couple of days, the Redmond giant met expectations by unveiling brand new category in next generation mobile computing - Microsoft Surface. Simply put, the Surface is a Windows 8 tablet but with much more features. The device might not kill Apple&amp;rsquo;s iPad, but certainly will revive Microsoft.&lt;/p&gt;
 &lt;p&gt;Steve Ballmer unveiling this new family of PCs for Windows at an event in Hollywood called this product as - &amp;ldquo;Because of Windows 8, the Surface is a PC, it is a tablet&amp;hellip;it&amp;rsquo;s something new.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Watch The Microsoft Surface Tablet Keynote Video Online [YouTube Video]</title>
-      <link>https://example.org/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/</link>
+      <link>//localhost:1313/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/</link>
       <pubDate>Tue, 19 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/</guid>
+      <guid>//localhost:1313/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/</guid>
       <description>&lt;p&gt;If you were not hooked up to your Facebook, Twitter and live blogging sites yesterday about Microsoft&amp;rsquo;s new Surface Tablet announcement, you can now watch the &lt;a href=&#34;http://icosmogeek.com/microsoft-surface-tablet-might-not-kill-ipad-but-revive-microsoft/&#34;&gt;Los Angeles keynote session&lt;/a&gt; on demand below. The company did not allow live video streaming event last night, but not it has delivered the entire presentation online.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Steve-Ballmer-unveilling-Microsoft-Surface.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/images/Steve-Ballmer-unveilling-Microsoft-Surface.jpg&#34; title=&#34;Steve Ballmer unveilling Microsoft Surface&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Steve-Ballmer-unveilling-Microsoft-Surface.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-06-19-watch-the-microsoft-surface-tablet-keynote-video-online-youtube-video/images/Steve-Ballmer-unveilling-Microsoft-Surface.jpg&#34; title=&#34;Steve Ballmer unveilling Microsoft Surface&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;The 47.27 minute &amp;lsquo;On-Demand Keynote: Microsoft Surface Event&amp;rsquo; video description reads - &amp;ldquo;Watch an on-demand version of the full keynote where Steve Ballmer, Steven Sinofsky and other Microsoft executives unveiled Surface, PCs built to be the ultimate stage for Windows.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Is Going To Launch A Tablet In A Few Hours? [Comic]</title>
-      <link>https://example.org/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/</link>
+      <link>//localhost:1313/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/</guid>
+      <guid>//localhost:1313/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/</guid>
       <description>&lt;p&gt;Microsoft is going to launch a tablet in a few hours. &lt;a href=&#34;http://www.theverge.com/2012/6/17/3092640/microsoft-barnes-noble-tablet-andy-lees-rumor&#34;&gt;The Verge&lt;/a&gt; reports that having witnessed the popularity of Amazon’s Kindle Fire, it would appear that Microsoft and Barnes &amp;amp; Noble have joined forces, with an entertainment tablet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Microsoft-Tablet.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/images/Microsoft-Tablet.jpg&#34; title=&#34;Microsoft Tablet&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Microsoft-Tablet.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-06-18-microsoft-is-going-to-launch-a-tablet-in-a-few-hours-comic/images/Microsoft-Tablet.jpg&#34; title=&#34;Microsoft Tablet&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;According to above sources, the Redmond giant company is set to add an Xbox 360 with a live streaming feature during today&amp;rsquo;s event that is going to happen at 3:30 PM Pacific Time. Interestingly, the event location is not yet confirmed!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bill Gates On Why He Went To India Recently</title>
-      <link>https://example.org/posts/2012-06-12-bill-gates-on-why-he-went-to-india-recently/</link>
+      <link>//localhost:1313/posts/2012-06-12-bill-gates-on-why-he-went-to-india-recently/</link>
       <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-12-bill-gates-on-why-he-went-to-india-recently/</guid>
+      <guid>//localhost:1313/posts/2012-06-12-bill-gates-on-why-he-went-to-india-recently/</guid>
       <description>&lt;p&gt;There was time when Microsoft founder Bill Gates used to visit India to promote the company&amp;rsquo;s products and to engage with top authorities. Now, even after stepping down as CEO, this world&amp;rsquo;s richest man hasn&amp;rsquo;t stopped visiting, but he and his wife play the roles of philanthropists. Bill Gates was in India in the last week of May, 2012.&lt;/p&gt;
 &lt;p&gt;Bill &amp;amp; Melinda Gates Foundation has invested more than $1 billion in programs to fight disease and poverty in India and there is a lot of debate  in the UK right now about whether the country should continue giving aid to India, a country that’s no longer among the poorest in the world. Now, in a recent post in the Gates Notes website, he posted a video explaining some impeccable reasons on why he went to India recently.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Apologizes For Windows Azure Girls&#39; Vulgar Dance [Video]</title>
-      <link>https://example.org/posts/2012-06-11-microsoft-apologizes-for-windows-azure-girls-vulgar-dance-video/</link>
+      <link>//localhost:1313/posts/2012-06-11-microsoft-apologizes-for-windows-azure-girls-vulgar-dance-video/</link>
       <pubDate>Mon, 11 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-11-microsoft-apologizes-for-windows-azure-girls-vulgar-dance-video/</guid>
+      <guid>//localhost:1313/posts/2012-06-11-microsoft-apologizes-for-windows-azure-girls-vulgar-dance-video/</guid>
       <description>&lt;p&gt;Somewhere in the world, Microsoft is going to fire a bunch of its Marketing team for this so called vulgar dance skit. The dance took place at an event in Norway that was intended to promote new advances in Microsoft’s Azure cloud-computing platform. This video  has to be one of the most embarrassing attempts at corporate entertainment.&lt;/p&gt;
 &lt;p&gt;Later, Microsoft had to apologize to its customers and partners for the inappropriate act.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What You Need To Know About IPV6 Launch Day. Father of the Internet Discusses Why We Need It [Video]</title>
-      <link>https://example.org/posts/2012-06-05-what-you-need-to-know-about-ipv6-launch-day-father-of-the-internet-discusses-why-we-need-it-video/</link>
+      <link>//localhost:1313/posts/2012-06-05-what-you-need-to-know-about-ipv6-launch-day-father-of-the-internet-discusses-why-we-need-it-video/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-05-what-you-need-to-know-about-ipv6-launch-day-father-of-the-internet-discusses-why-we-need-it-video/</guid>
+      <guid>//localhost:1313/posts/2012-06-05-what-you-need-to-know-about-ipv6-launch-day-father-of-the-internet-discusses-why-we-need-it-video/</guid>
       <description>&lt;p&gt;On June 6, 2012, the world will change and its forever. Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services by tomorrow on World IPV6 launch day.&lt;/p&gt;
 &lt;p&gt;To remind about this launch, Google posted a video of Vint Cerf who is called Father of the Internet and also a Chief Internet Evangelist at Google where he discusses the next version of IPV6 and why we need it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Confirms $15 For Windows 8 Upgrade</title>
-      <link>https://example.org/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/</link>
+      <link>//localhost:1313/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/</guid>
+      <guid>//localhost:1313/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/</guid>
       <description>&lt;p&gt;Along with the news about &lt;a href=&#34;http://icosmogeek.com/windows-8-release-preview-is-now-available-for-download/&#34;&gt;Windows 8 Release Preview&lt;/a&gt; download availability earlier today, Microsoft also confirmed the price details for Windows 8 upgrade. It costs only $14.99  for Windows 8 Pro edition upgrade, but only if you buy a new Windows 7 PC  between this Saturday, June 2, 2012 and Jan 31, 2013. Microsoft will offer the deal to computer buyers in 131 markets, including the U.S. and Canada.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Windows-8-Release-Preview.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/images/Windows-8-Release-Preview.jpg&#34; title=&#34;Windows 8 Release Preview&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/06/Windows-8-Release-Preview.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-06-01-microsoft-confirms-15-for-windows-8-upgrade/images/Windows-8-Release-Preview.jpg&#34; title=&#34;Windows 8 Release Preview&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows 8 Release Preview Is Now Available For Download</title>
-      <link>https://example.org/posts/2012-05-31-windows-8-release-preview-is-now-available-for-download/</link>
+      <link>//localhost:1313/posts/2012-05-31-windows-8-release-preview-is-now-available-for-download/</link>
       <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-05-31-windows-8-release-preview-is-now-available-for-download/</guid>
+      <guid>//localhost:1313/posts/2012-05-31-windows-8-release-preview-is-now-available-for-download/</guid>
       <description>&lt;p&gt;Windows 8 Release Preview which was originally planned for the first week of June  is now available for download. This is not the final version and I would recommend only tech enthusiasts to try out on their personal computers.&lt;/p&gt;
 &lt;p&gt;Release Preview is the third release as part of testing process for Windows 8. The first version which was released back in September last year was called as Developer Preview and the second version was branded as Consumer Preview which was released in late February, 2012. Microsoft started calling new naming conventions against traditional beta, beta 1 or release candidate versions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forbes: 5 CEOs Who Should Have Already Been Fired. Steve Ballmer Is First In The List</title>
-      <link>https://example.org/posts/2012-05-14-forbes-5-ceos-who-should-have-already-been-fired-steve-ballmer-is-first-in-the-list/</link>
+      <link>//localhost:1313/posts/2012-05-14-forbes-5-ceos-who-should-have-already-been-fired-steve-ballmer-is-first-in-the-list/</link>
       <pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-05-14-forbes-5-ceos-who-should-have-already-been-fired-steve-ballmer-is-first-in-the-list/</guid>
+      <guid>//localhost:1313/posts/2012-05-14-forbes-5-ceos-who-should-have-already-been-fired-steve-ballmer-is-first-in-the-list/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Forbes listed 5 CEOs that deserve being fired. In that list, &lt;a href=&#34;http://icosmogeek.com/developers-developers-developers-by-steve-ballmer/&#34;&gt;Microsoft  CEO Steve Ballmer&lt;/a&gt; is the &amp;ldquo;worst CEO of a large publicly traded American company today.&amp;rdquo; Ballmer, according to Forbes, has destroyed shareholder value and jobs at Microsoft and &amp;ldquo;singlehandedly steered Microsoft out of some of the fastest growing and most lucrative tech markets.&amp;rdquo; He&amp;rsquo;s also seen the company&amp;rsquo;s share price drop from $60 when he took over more than 10 years ago to its current price in the low $30s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Get 25GB Free Space From SkyDrive [Limited Loyalty Offer]</title>
-      <link>https://example.org/posts/2012-04-27-how-to-get-25gb-free-space-from-skydrive-limited-loyalty-offer/</link>
+      <link>//localhost:1313/posts/2012-04-27-how-to-get-25gb-free-space-from-skydrive-limited-loyalty-offer/</link>
       <pubDate>Fri, 27 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-27-how-to-get-25gb-free-space-from-skydrive-limited-loyalty-offer/</guid>
+      <guid>//localhost:1313/posts/2012-04-27-how-to-get-25gb-free-space-from-skydrive-limited-loyalty-offer/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;This is an excellent takeaway from the updated version of Microsoft&amp;rsquo;s SkyDrive for a limited period of time and available exclusive to its loyalty customers. SkyDrive is Microsoft’s cloud storage service. The service itself has been available for a long time, but Microsoft is doubling-down on the service with features and enhancements designed around the upcoming Windows 8 operating system.&lt;/p&gt;
 &lt;p&gt;Whether you really use all of the 25GB space or not, act now before it expires!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Drive or Microsoft SkyDrive or Dropbox? Which is Right for Me?</title>
-      <link>https://example.org/posts/2012-04-26-google-drive-or-microsoft-skydrive-or-dropbox-which-is-right-for-me/</link>
+      <link>//localhost:1313/posts/2012-04-26-google-drive-or-microsoft-skydrive-or-dropbox-which-is-right-for-me/</link>
       <pubDate>Thu, 26 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-26-google-drive-or-microsoft-skydrive-or-dropbox-which-is-right-for-me/</guid>
+      <guid>//localhost:1313/posts/2012-04-26-google-drive-or-microsoft-skydrive-or-dropbox-which-is-right-for-me/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Its cloud storage everywhere! You have your files, pictures, videos on your home or office computer that you would like to access from other locations on different devices while on the go. Or you want to maintain a copy of all your data on somewhere on the Internet as a backup so that you can quickly access them from anywhere. This is where the cloud storage is useful.&lt;/p&gt;
 &lt;p&gt;Dropbox has been the leading cloud storage vendor from long time but this may change soon as the software giants Microsoft and Google entered the market with the launch of SkyDrive and Google Drive (&lt;em&gt;it just launched yesterday&lt;/em&gt;) respectively.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Official Skype App For Windows Phone Is No Longer Beta. Download Now!</title>
-      <link>https://example.org/posts/2012-04-22-official-skype-app-for-windows-phone-is-no-longer-beta-download-now/</link>
+      <link>//localhost:1313/posts/2012-04-22-official-skype-app-for-windows-phone-is-no-longer-beta-download-now/</link>
       <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-22-official-skype-app-for-windows-phone-is-no-longer-beta-download-now/</guid>
+      <guid>//localhost:1313/posts/2012-04-22-official-skype-app-for-windows-phone-is-no-longer-beta-download-now/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;The long awaited video calling app, Skype for Windows Phone is now available on the Marketplace as version 1.0.  This official app was first released two months ago in February as a Beta version. The app now graduates to v 1.0. There is no real good working video calling app for Windows Phone users till now apart from Tango. Now that, Microsoft &lt;a href=&#34;http://icosmogeek.com/confirmed-microsoft-bought-skype-for-8-5-billion/&#34;&gt;bought&lt;/a&gt; Skype last year, the app seems to be a late runner in the Marketplace world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>These Guys Are Making Around $1400 A Day On A Single Windows Phone 7 Game</title>
-      <link>https://example.org/posts/2012-04-20-these-guys-are-making-around-1400-a-day-on-a-single-windows-phone-7-game/</link>
+      <link>//localhost:1313/posts/2012-04-20-these-guys-are-making-around-1400-a-day-on-a-single-windows-phone-7-game/</link>
       <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-20-these-guys-are-making-around-1400-a-day-on-a-single-windows-phone-7-game/</guid>
+      <guid>//localhost:1313/posts/2012-04-20-these-guys-are-making-around-1400-a-day-on-a-single-windows-phone-7-game/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;This is a great success story of a four group of people (?) formed as &lt;strong&gt;FourBros Studio LLC&lt;/strong&gt; who developed a free Windows Phone 7 game - &lt;strong&gt;Taptitude&lt;/strong&gt;. The company launched Taptitude in March 2011 with simple minigames and have been updating every week with new games and features. As of today, the company has generated over $100,000 of revenue on this game with more than 300,000 users.&lt;/p&gt;
 &lt;p&gt;According to the recent post on the company&amp;rsquo;s website, the spokesman said the they have seen a big spike since the launch of Nokia&amp;rsquo;s Windows Phones especially after Lumia 800.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Announced Windows 8 Editions. Windows 8, Windows 8 Pro, Windows RT.</title>
-      <link>https://example.org/posts/2012-04-17-microsoft-announced-windows-8-editions-windows-8-windows-8-pro-windows-rt/</link>
+      <link>//localhost:1313/posts/2012-04-17-microsoft-announced-windows-8-editions-windows-8-windows-8-pro-windows-rt/</link>
       <pubDate>Tue, 17 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-17-microsoft-announced-windows-8-editions-windows-8-windows-8-pro-windows-rt/</guid>
+      <guid>//localhost:1313/posts/2012-04-17-microsoft-announced-windows-8-editions-windows-8-windows-8-pro-windows-rt/</guid>
       <description>&lt;p&gt;Microsoft has just announced the final Windows 8 editions that are going to be released in the consumer market. In the official announcement on Windows Team Blog, Microsoft again confirmed that &lt;strong&gt;Windows 8&lt;/strong&gt; is the official name of this next generation release.&lt;/p&gt;
 &lt;p&gt;In contrast to number of editions available in the previous editions of Windows (even in Windows 7, we have around six editions available in the consumer market), Windows 8 will now be available in only &lt;strong&gt;three&lt;/strong&gt; editions - Windows 8, Windows 8 Pro and Windows RT.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Confirmed &#39;Windows Server 2012&#39; As The Next Server OS Name</title>
-      <link>https://example.org/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/</link>
+      <link>//localhost:1313/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/</link>
       <pubDate>Tue, 17 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/</guid>
+      <guid>//localhost:1313/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Microsoft just announced that the official product name for its next server operating system as &lt;strong&gt;Windows Server 2012.&lt;/strong&gt; This is the next release after Windows Server 2008 R2 in the server family which is based on Windows Server 8 code name. The new server operating system is expected to be released later this year sometime along with Windows 8.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/04/Windows-Server-2012.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/images/Windows-Server-2012.jpg&#34; title=&#34;Windows Server 2012&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2012/04/Windows-Server-2012.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-04-17-microsoft-confirmed-windows-server-2012-as-the-next-server-os-name/images/Windows-Server-2012.jpg&#34; title=&#34;Windows Server 2012&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The beta release of Windows Server 8 is already available for users to evaluate from the official &lt;a href=&#34;http://www.microsoft.com/en-us/server-cloud/windows-server/v8-default.aspx&#34;&gt;website&lt;/a&gt;. Windows Server 2012 is expected to have new online backup service for its customers based on Azure cloud platform.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows Phone 7.5 Tango Officially Renamed As ‘Refresh’</title>
-      <link>https://example.org/posts/2012-03-13-windows-phone-7-5-tango-officially-renamed-as-refresh/</link>
+      <link>//localhost:1313/posts/2012-03-13-windows-phone-7-5-tango-officially-renamed-as-refresh/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-03-13-windows-phone-7-5-tango-officially-renamed-as-refresh/</guid>
+      <guid>//localhost:1313/posts/2012-03-13-windows-phone-7-5-tango-officially-renamed-as-refresh/</guid>
       <description>&lt;p&gt;The next version of Microsoft’s Windows Phone operating system after Mango 7.1 is officially renamed as ‘Windows Phone 7.5 Refresh’ – according to the head of Windows Phone division for Microsoft Italy.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/-YhseWS5rYYc/T17kT5zUsWI/AAAAAAAAIfg/hdeEOrpYOI8/s1600-h/6250424703_5c631fca93_b%25255B2%25255D.jpg&#34;&gt;&lt;img alt=&#34;6250424703_5c631fca93_b&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/-3zSAPy6m5-k/T17kUXTKUlI/AAAAAAAAIfo/Kr5oV7Pzim4/6250424703_5c631fca93_b_thumb.jpg?imgmax=800&#34; title=&#34;6250424703_5c631fca93_b&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -405,53 +405,53 @@
     </item>
     <item>
       <title>Microsoft Refunds to Azure Leap Day Bug Customers And Drops Pricing</title>
-      <link>https://example.org/posts/2012-03-12-microsoft-refunds-to-azure-leap-day-bug-customers-and-drops-pricing/</link>
+      <link>//localhost:1313/posts/2012-03-12-microsoft-refunds-to-azure-leap-day-bug-customers-and-drops-pricing/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-03-12-microsoft-refunds-to-azure-leap-day-bug-customers-and-drops-pricing/</guid>
+      <guid>//localhost:1313/posts/2012-03-12-microsoft-refunds-to-azure-leap-day-bug-customers-and-drops-pricing/</guid>
       <description>&lt;p&gt;Microsoft announced that it will provide a credit to all current Windows Azure customers in response to a system outage due to February 29 leap day bug. The company decided to to provide a 33% credit to all customers of Windows Azure Compute, Access Control, Service Bus and Caching for the entire affected billing months for these services, regardless of whether their service was impacted.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/-GhGQqQZ9P7A/T15tl5xSXvI/AAAAAAAAIfQ/sgGSNhW-QYI/s1600-h/image2.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/-k60SHT2Jip0/T15tmml9Z6I/AAAAAAAAIfY/-y9WbrW0uP0/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft corporate vice president of the server and cloud division, Bill Laing wrote in the blog &lt;a href=&#34;http://blogs.msdn.com/b/windowsazure/archive/2012/03/09/summary-of-windows-azure-service-disruption-on-feb-29th-2012.aspx&#34;&gt;post&lt;/a&gt; summarizing the service disruption -&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Patent Shows Google May Bring Android OS To Desktops</title>
-      <link>https://example.org/posts/2012-02-22-new-patent-shows-google-may-bring-android-os-to-desktops/</link>
+      <link>//localhost:1313/posts/2012-02-22-new-patent-shows-google-may-bring-android-os-to-desktops/</link>
       <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-02-22-new-patent-shows-google-may-bring-android-os-to-desktops/</guid>
+      <guid>//localhost:1313/posts/2012-02-22-new-patent-shows-google-may-bring-android-os-to-desktops/</guid>
       <description>&lt;p&gt;May be, in the future, your Android smartphone could run the same apps on your Google powered computer too. A recent patent filing by Google shows the tech giant is in the process of bringing its mobile operating system, Android, to desktop and notebook computers.&lt;/p&gt;
 &lt;p&gt;With Apple already integrating more iOS powered features into its next OS X, &lt;a href=&#34;http://www.cosmogeek.info/2012/02/apple-unveils-os-x-108-mountain-lion.html&#34;&gt;Mountain Lion&lt;/a&gt;, the trend of the tablet moving into the desktop space started. Even Microsoft is in the race with Windows 8 and Windows Phone operating system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Officially Confirmed New Windows Logo</title>
-      <link>https://example.org/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/</link>
+      <link>//localhost:1313/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/</link>
       <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/</guid>
+      <guid>//localhost:1313/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/</guid>
       <description>&lt;p&gt;Microsoft changed its Windows Logo, an inspired design from its new Metro interface. A day after Apple &lt;a href=&#34;http://www.cosmogeek.info/2012/02/apple-unveils-os-x-108-mountain-lion.html&#34;&gt;unveiled&lt;/a&gt; its next operating system Mountain Lion, Microsoft announced in an official blog confirmation that it has redesigned the Windows Logo.&lt;/p&gt;
 &lt;p&gt;This new logo is truly inspired from its well known mobile operating system Windows Phone.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Win8Logo_01_thumb&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/images/6201.Win8Logo_5F00_01_5F00_thumb_5F00_23669D8A.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Win8Logo_01_thumb&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2012-02-17-microsoft-officially-confirmed-new-windows-logo/images/6201.Win8Logo_5F00_01_5F00_thumb_5F00_23669D8A.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The new design is the biggest change from its classic 90s logo. In an official &lt;a href=&#34;http://windowsteamblog.com/windows/b/bloggingwindows/archive/2012/02/17/redesigning-the-windows-logo.aspx&#34;&gt;post&lt;/a&gt;, Microsoft’s Principal Director of User Experience for Windows confirmed that the new logo carries Metro principle of being ‘Authentically Digital’.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Breaking: Microsoft India Store Has Been Hacked. Passwords In Plain Text Format Exposed [Update]</title>
-      <link>https://example.org/posts/2012-02-13-breaking-microsoft-india-store-has-been-hacked-passwords-in-plain-text-format-exposed-update/</link>
+      <link>//localhost:1313/posts/2012-02-13-breaking-microsoft-india-store-has-been-hacked-passwords-in-plain-text-format-exposed-update/</link>
       <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-02-13-breaking-microsoft-india-store-has-been-hacked-passwords-in-plain-text-format-exposed-update/</guid>
+      <guid>//localhost:1313/posts/2012-02-13-breaking-microsoft-india-store-has-been-hacked-passwords-in-plain-text-format-exposed-update/</guid>
       <description>&lt;p&gt;Well, this is huge! Microsoft’s India online store &lt;a href=&#34;http://www.microsoftstore.co.in/&#34;&gt;website&lt;/a&gt; has been hacked and all user information which was stored in plain text format without any encryption has also been exposed. It looks like the hacker team got remote access to the whole web server.&lt;/p&gt;
 &lt;p&gt;The main reasons behind this hack are still unknown but from the homepage replaced information, its been predicted that a non well known hacker organization EvilShadow is behind all this invasion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>15 Years of Microsoft Pogo Remix – CES 2012</title>
-      <link>https://example.org/posts/2012-01-10-15-years-of-microsoft-pogo-remix-ces-2012/</link>
+      <link>//localhost:1313/posts/2012-01-10-15-years-of-microsoft-pogo-remix-ces-2012/</link>
       <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-01-10-15-years-of-microsoft-pogo-remix-ces-2012/</guid>
+      <guid>//localhost:1313/posts/2012-01-10-15-years-of-microsoft-pogo-remix-ces-2012/</guid>
       <description>&lt;p&gt;This auto tuned Microsoft’s history Pogo remix video which was played at CES 2012 today is definitely a fresh beat and worth watch! It is a 15 years of Microsoft video all the way back to Windows 95.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=MdIfSDwfTqA&amp;amp;feature=youtu.be&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/-1gwfC7uXoug/TwvO-jhcD2I/AAAAAAAAIGQ/aBi-Rsl6fJY/video1f1e6a7f6543%25255B8%25255D.jpg?imgmax=800&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This could be the last keynote from Microsoft at International CES event which is live now from January 8 to January 13.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Announced Kinect Sensor for Windows</title>
-      <link>https://example.org/posts/2012-01-10-microsoft-announced-kinect-sensor-for-windows/</link>
+      <link>//localhost:1313/posts/2012-01-10-microsoft-announced-kinect-sensor-for-windows/</link>
       <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-01-10-microsoft-announced-kinect-sensor-for-windows/</guid>
+      <guid>//localhost:1313/posts/2012-01-10-microsoft-announced-kinect-sensor-for-windows/</guid>
       <description>&lt;p&gt;At CES 2012 Microsoft’s keynote that was completed a while ago, Microsoft’s CEO Steve Ballmer announced this new device – &lt;strong&gt;Kinect Sensor for Windows&lt;/strong&gt;. The product is already available for pre-order for $249.99 at &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/B006UIS53K/34a6-20/&#34;&gt;Amazon&lt;/a&gt; and will be available starting February 1, 2012.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/-Wvqt1pg7uvw/TwvXb6aYPCI/AAAAAAAAIGY/Ce7kv8R2A5M/s1600-h/image%25255B3%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/-HrgJ4L-wZpU/TwvXcoOO_vI/AAAAAAAAIGg/OLPkEsfWuTQ/image_thumb%25255B1%25255D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Amazon product description says -&lt;/p&gt;
@@ -464,26 +464,26 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>Majel: Google’s Response to Siri? Early 2012 Release?</title>
-      <link>https://example.org/posts/2011-12-14-majel-googles-response-to-siri-early-2012-release/</link>
+      <link>//localhost:1313/posts/2011-12-14-majel-googles-response-to-siri-early-2012-release/</link>
       <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-12-14-majel-googles-response-to-siri-early-2012-release/</guid>
+      <guid>//localhost:1313/posts/2011-12-14-majel-googles-response-to-siri-early-2012-release/</guid>
       <description>&lt;p&gt;Since Apple’s iPhone 4S launch, everyone has been talking about one awesome feature: &lt;strong&gt;Siri.&lt;/strong&gt; This feature was the first of its real kind of piece of software using normal talking language. We had many voice command software before, just like &lt;a href=&#34;http://www.cosmogeek.info/2011/11/siri-versus-microsofts-tellme-siri-is.html&#34;&gt;Microsoft’s Tellme&lt;/a&gt;, open source, commercial software, but Siri lit a fire.&lt;/p&gt;
 &lt;p&gt;Even though Siri is technically still in beta, it &lt;a href=&#34;http://www.cosmogeek.info/2011/11/siri-hacker-siri-can-start-stop-lock.html&#34;&gt;impressed&lt;/a&gt; us in many other ways. Now, everybody started copying it. First in the line is Google. Read on..&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows Phone 7 Gets Its Own Cydia Like Store – Bazaar [How To Guide]</title>
-      <link>https://example.org/posts/2011-12-12-windows-phone-7-gets-its-own-cydia-like-store-bazaar-how-to-guide/</link>
+      <link>//localhost:1313/posts/2011-12-12-windows-phone-7-gets-its-own-cydia-like-store-bazaar-how-to-guide/</link>
       <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-12-12-windows-phone-7-gets-its-own-cydia-like-store-bazaar-how-to-guide/</guid>
+      <guid>//localhost:1313/posts/2011-12-12-windows-phone-7-gets-its-own-cydia-like-store-bazaar-how-to-guide/</guid>
       <description>&lt;p&gt;Microsoft is doing decently good with their recently launched Windows Phone 7.5 platform. I had a chance to test some of its exciting features on Samsung Focus i917.&lt;/p&gt;
 &lt;p&gt;Just like Apple’s iOS App Store alternative for jailbreakers – &lt;strong&gt;Cydia,&lt;/strong&gt; Windows Phone 7 users get an alternative apps distribution platform to Windows Market Place, known as &lt;strong&gt;Bazaar.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;These alternative platforms let in apps that are rejected from the official App Store or Market Place. Just like Apple’s App Store, Microsoft’s Market Place is a well monitored and closed system unlike Google’s Android market. All apps that are submitted that are submitted for App Store or Market Place goes through a strict screening process. If an app is found to be violated guidelines set by Apple or Microsoft, it is rejected and sent back to the developer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Silverlight 5 Available for Download. This Could Be The Last Version</title>
-      <link>https://example.org/posts/2011-12-10-silverlight-5-available-for-download-this-could-be-the-last-version/</link>
+      <link>//localhost:1313/posts/2011-12-10-silverlight-5-available-for-download-this-could-be-the-last-version/</link>
       <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-12-10-silverlight-5-available-for-download-this-could-be-the-last-version/</guid>
+      <guid>//localhost:1313/posts/2011-12-10-silverlight-5-available-for-download-this-could-be-the-last-version/</guid>
       <description>&lt;p&gt;Microsoft today announced the release of Silverlight 5. Silverlight is part of a rich offering of technologies from Microsoft helping developers deliver applications for the web, desktop and mobile devices.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/-L_QWr32x7RA/TuKadTfT1xI/AAAAAAAAHzk/shLrluvPKlA/s1600-h/image%25255B3%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/-vbEMiEgQ-gw/TuKad9dpxSI/AAAAAAAAHzs/xW9JKRcDVww/image_thumb%25255B1%25255D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;From the MSDN blog, new features in Silverlight 5 include -&lt;/p&gt;
@@ -492,18 +492,18 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>Bill Gates Coming Back To Microsoft? Investors Not Happy With Steve Ballmer?</title>
-      <link>https://example.org/posts/2011-12-09-bill-gates-coming-back-to-microsoft-investors-not-happy-with-steve-ballmer/</link>
+      <link>//localhost:1313/posts/2011-12-09-bill-gates-coming-back-to-microsoft-investors-not-happy-with-steve-ballmer/</link>
       <pubDate>Fri, 09 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-12-09-bill-gates-coming-back-to-microsoft-investors-not-happy-with-steve-ballmer/</guid>
+      <guid>//localhost:1313/posts/2011-12-09-bill-gates-coming-back-to-microsoft-investors-not-happy-with-steve-ballmer/</guid>
       <description>&lt;p&gt;Is the founder and Chairman of Redmond giant Microsoft coming to the company he founded? This news could be true soon if investor gossip is considered by board of members.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/-m0Be7SqWoOA/TuGdapsVL7I/AAAAAAAAHzE/5fjWHPR2_1U/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/-f_Yqxpn2Rp0/TuGdb7shAlI/AAAAAAAAHzM/oNp2CkEN56c/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;According to a &lt;a href=&#34;http://tech.fortune.cnn.com/2011/12/08/bill-gates-comeback/&#34;&gt;report&lt;/a&gt; on CNN Money, the company’s stock price has been a thorn in Steve Ballmer’s side for a decade. At the end of 1999, in Bill Gates period, shares were at almost $60. When Steve Ballmer took over in 2000, the share price dropped to $25.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Siri versus Microsoft’s Tellme. Siri is Indeed Miles Ahead</title>
-      <link>https://example.org/posts/2011-11-26-siri-versus-microsofts-tellme-siri-is-indeed-miles-ahead/</link>
+      <link>//localhost:1313/posts/2011-11-26-siri-versus-microsofts-tellme-siri-is-indeed-miles-ahead/</link>
       <pubDate>Sat, 26 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-11-26-siri-versus-microsofts-tellme-siri-is-indeed-miles-ahead/</guid>
+      <guid>//localhost:1313/posts/2011-11-26-siri-versus-microsofts-tellme-siri-is-indeed-miles-ahead/</guid>
       <description>&lt;p&gt;Now that everybody are excited about Apple’s new &lt;strong&gt;Siri&lt;/strong&gt; feature, Microsoft have been talking a lot over the past couple of days about the not so popular feature in Windows Phone 7 known as &lt;strong&gt;Microsoft Tellme.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The research office from Microsoft told Forbes recently that Microsoft has had similar technology on its Windows Phone platform for more than a year!&lt;/p&gt;
 &lt;p&gt;According to the &lt;a href=&#34;http://www.forbes.com/sites/ericsavitz/2011/11/23/microsofts-craig-mundie-on-siri-been-there-done-that-video/&#34;&gt;interview&lt;/a&gt;:&lt;/p&gt;
@@ -512,35 +512,35 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>What Did Steve Jobs Say About Microsoft, Google, Facebook? [Video]</title>
-      <link>https://example.org/posts/2011-10-24-what-did-steve-jobs-say-about-microsoft-google-facebook-video/</link>
+      <link>//localhost:1313/posts/2011-10-24-what-did-steve-jobs-say-about-microsoft-google-facebook-video/</link>
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-10-24-what-did-steve-jobs-say-about-microsoft-google-facebook-video/</guid>
+      <guid>//localhost:1313/posts/2011-10-24-what-did-steve-jobs-say-about-microsoft-google-facebook-video/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“They just don’t get it”&lt;/strong&gt; – That’s how Steve Jobs described his digital rivals Microsoft and Google in an interview with his biographer Walter Isaacson. &lt;strong&gt;Steve Jobs: A Biography&lt;/strong&gt; which is released today already in the number one place in &lt;a href=&#34;http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/&#34;&gt;Amazon’s&lt;/a&gt; charts (in all three Biography &amp;amp; History, Business, Technology categories).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/-eExHbjrLtUI/TqXaXKfh9RI/AAAAAAAAGCc/gcPUkVQ_p3o/s1600-h/image%25255B4%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/-a_G5j-GSUuc/TqXaXgyd8CI/AAAAAAAAGCk/C_bj7zYEC0I/image_thumb%25255B2%25255D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In CBSNews’ &lt;em&gt;&lt;a href=&#34;http://www.cbsnews.com/sections/60minutes/main3415.shtml&#34;&gt;60 Minutes&lt;/a&gt;&lt;/em&gt; interview with the author Walter Isaacson, he explains on what Steve Jobs told him before his death for the biography. The author conducted more than 40 taped interviews with Steve.&lt;/p&gt;</description>
     </item>
     <item>
       <title>You Can Make And Receive Calls From Windows 8?</title>
-      <link>https://example.org/posts/2011-09-18-you-can-make-and-receive-calls-from-windows-8/</link>
+      <link>//localhost:1313/posts/2011-09-18-you-can-make-and-receive-calls-from-windows-8/</link>
       <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-09-18-you-can-make-and-receive-calls-from-windows-8/</guid>
+      <guid>//localhost:1313/posts/2011-09-18-you-can-make-and-receive-calls-from-windows-8/</guid>
       <description>&lt;p&gt;Surely, &lt;a href=&#34;http://www.cosmogeek.info/2011/09/how-to-install-windows-8-on-virtual.html&#34;&gt;Metro UI style&lt;/a&gt; in Windows 8 is real treat for PC users. Microsoft is currently building a number of innovative applications for Windows 8. Even though many of the apps are not currently available in Windows 8 Developer Preview, the software giant is expected to ship them in its Beta edition. These apps could be very similar to those of Windows Phone 7 devices.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/-7PnE4Z3NijA/TnZvx-oLMCI/AAAAAAAAFl0/jr2CZdc78Jc/s1600-h/image%25255B4%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%25255B7%25255D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/-s6Zzot7uQ-w/TnZvzmp0d7I/AAAAAAAAFmA/sHnbi-_izOM/image_thumb%25255B3%25255D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;While there could be a possibility that Microsoft may use its own VOIP based communication system using Windows Live, or Skype; there is a also a possibility that Microsoft could restrict this feature in only tablet based devices supporting phone capability feature. This phone feature could be a real bet if Microsoft takes directly to desktop PC users also.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Install Windows 8 on a Virtual Machine</title>
-      <link>https://example.org/posts/2011-09-15-how-to-install-windows-8-on-a-virtual-machine/</link>
+      <link>//localhost:1313/posts/2011-09-15-how-to-install-windows-8-on-a-virtual-machine/</link>
       <pubDate>Thu, 15 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-09-15-how-to-install-windows-8-on-a-virtual-machine/</guid>
+      <guid>//localhost:1313/posts/2011-09-15-how-to-install-windows-8-on-a-virtual-machine/</guid>
       <description>&lt;p&gt;Now that Microsoft released Windows 8 Developer Preview build officially this Tuesday, want to see and test all new features right from your machine without disturbing existing operating system? Read on..&lt;/p&gt;
 &lt;p&gt;Interesting part about Windows 8 is that Microsoft is foreseeing an OS that scales right from small form factors, tablets and all the way to big servers. Major updates in this new operating system include Tablet Optimization, Picture Password, New Start Screen with ‘Tile’ (apps), Metro UI, Charms, IE 10.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Says Apple and Microsoft Illegally Killing Android</title>
-      <link>https://example.org/posts/2011-08-04-google-says-apple-and-microsoft-illegally-killing-android/</link>
+      <link>//localhost:1313/posts/2011-08-04-google-says-apple-and-microsoft-illegally-killing-android/</link>
       <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-08-04-google-says-apple-and-microsoft-illegally-killing-android/</guid>
+      <guid>//localhost:1313/posts/2011-08-04-google-says-apple-and-microsoft-illegally-killing-android/</guid>
       <description>&lt;p&gt;The mobile sphere has become increasingly competitive over the last few years with giants coming into the platform.&lt;/p&gt;
 &lt;p&gt;In an official blog post from Google, Senior Vice President and Chief Legal Officer, David Drummond believes recent actions from Microsoft and Apple indicate a partnership of sorts bound with the common bond of stopping Android’s fast growing success in its tracks.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/-gm3Y9IrKl3g/Tjo9amJPc8I/AAAAAAAAFjU/192N9zHM2ro/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/-4nYPmMMQxPM/Tjo9dSdc_aI/AAAAAAAAFjY/f7D370tnX7w/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -550,9 +550,9 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>WP7 Mango Developers Can Submit Apps from August</title>
-      <link>https://example.org/posts/2011-07-21-wp7-mango-developers-can-submit-apps-from-august/</link>
+      <link>//localhost:1313/posts/2011-07-21-wp7-mango-developers-can-submit-apps-from-august/</link>
       <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-07-21-wp7-mango-developers-can-submit-apps-from-august/</guid>
+      <guid>//localhost:1313/posts/2011-07-21-wp7-mango-developers-can-submit-apps-from-august/</guid>
       <description>&lt;p&gt;Microsoft today announced a revamped developer &lt;strong&gt;&lt;a href=&#34;http://create.msdn.com/&#34;&gt;App Hub&lt;/a&gt;&lt;/strong&gt; portal for Windows Phone 7. Additionally, Windows Phone 7 Mango Developers can start submitting their applications from this August. This gives a hint that WP7 Mango handsets are set to release in either August or September.&lt;/p&gt;
 &lt;p&gt;Mango is the next version of Windows Phone 7 from Microsoft with more than &lt;a href=&#34;http://www.cosmogeek.info/2011/05/500-new-features-in-windows-phone-7.html&#34;&gt;500 new features&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/-wMCwSX9m_a8/Tig36ZwwQqI/AAAAAAAAFiE/PUiVvDPyXY8/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/-RA-BfwK5YkQ/Tig37bnhZ9I/AAAAAAAAFiI/ELB-5F75ZMY/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -560,9 +560,9 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>Tulalip: New Social Search Service Leaked Accidentally From Microsoft</title>
-      <link>https://example.org/posts/2011-07-15-tulalip-new-social-search-service-leaked-accidentally-from-microsoft/</link>
+      <link>//localhost:1313/posts/2011-07-15-tulalip-new-social-search-service-leaked-accidentally-from-microsoft/</link>
       <pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-07-15-tulalip-new-social-search-service-leaked-accidentally-from-microsoft/</guid>
+      <guid>//localhost:1313/posts/2011-07-15-tulalip-new-social-search-service-leaked-accidentally-from-microsoft/</guid>
       <description>&lt;p&gt;Microsoft accidentally revealed an internal test version of its research design project &lt;strong&gt;“Tulalip”&lt;/strong&gt; yesterday.&lt;/p&gt;
 &lt;p&gt;A teaser landing page has been revealed by &lt;a href=&#34;http://fusible.com/2011/07/new-microsoft-social-search-service-called-tulalip-revealed-on-socl-com/&#34;&gt;Fusible&lt;/a&gt; and it appears to be a new “Social Search” service by Microsoft as shown below.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/-C88ZrdioH_o/TiA87pyE7cI/AAAAAAAAETQ/K2gjG0w5x4U/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/-AM47CMh3JD0/TiA88Q7L54I/AAAAAAAAETU/agaHPLpX9t0/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -571,9 +571,9 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>Leaked Pictures of Nokia’s First Windows Phone. Codenamed ‘SeaRay’</title>
-      <link>https://example.org/posts/2011-06-23-leaked-pictures-of-nokias-first-windows-phone-codenamed-searay/</link>
+      <link>//localhost:1313/posts/2011-06-23-leaked-pictures-of-nokias-first-windows-phone-codenamed-searay/</link>
       <pubDate>Thu, 23 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-06-23-leaked-pictures-of-nokias-first-windows-phone-codenamed-searay/</guid>
+      <guid>//localhost:1313/posts/2011-06-23-leaked-pictures-of-nokias-first-windows-phone-codenamed-searay/</guid>
       <description>&lt;p&gt;Ok. This one is a big leak! Earlier today, pictures and video of Nokia’s first man, CEO &lt;strong&gt;Stephen Elop&lt;/strong&gt; announcing first Windows Phone to the company’s employees surfaced the blogosphere.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/-FNy2F1pom2M/TgNXN6lfcLI/AAAAAAAACGc/857UDFSPdtY/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%25255B5%25255D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%25255B8%25255D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/-1PpVG4I7IWI/TgNXSE3mfRI/AAAAAAAACGw/S47vlF_pIrA/image_thumb%25255B2%25255D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;And here is the important part of the video -&lt;/p&gt;
@@ -581,9 +581,9 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>New ‘Protogon’ File System in Windows 8 ?</title>
-      <link>https://example.org/posts/2011-06-03-new-protogon-file-system-in-windows-8/</link>
+      <link>//localhost:1313/posts/2011-06-03-new-protogon-file-system-in-windows-8/</link>
       <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-06-03-new-protogon-file-system-in-windows-8/</guid>
+      <guid>//localhost:1313/posts/2011-06-03-new-protogon-file-system-in-windows-8/</guid>
       <description>&lt;p&gt;IT World’s Sando Villinger has some interesting findings in Microsoft’s next generation operating system – &lt;strong&gt;Windows 8&lt;/strong&gt;. One of the known or unknown hidden features that various people have discovered since internal builds began leaking over couple of months is the new file system – &lt;strong&gt;Protogon.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/-j-580IdfGLc/Tej7vmcn1HI/AAAAAAAACDU/22MmUZhy5rs/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/-g5o-Dk2-bU4/Tej7wrawJoI/AAAAAAAACDY/pFYerc9Twns/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft recently demonstrated Windows 8 features in a &lt;a href=&#34;http://www.cosmogeek.info/2011/06/windows-8-comes-with-new-look-touch-and.html&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
@@ -593,27 +593,27 @@ The sensor will only work on computers running the SDK softawre&lt;/em&gt;&lt;/p
     </item>
     <item>
       <title>Windows 8 Comes With New Look, Touch And Start Screen</title>
-      <link>https://example.org/posts/2011-06-02-windows-8-comes-with-new-look-touch-and-start-screen/</link>
+      <link>//localhost:1313/posts/2011-06-02-windows-8-comes-with-new-look-touch-and-start-screen/</link>
       <pubDate>Thu, 02 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-06-02-windows-8-comes-with-new-look-touch-and-start-screen/</guid>
+      <guid>//localhost:1313/posts/2011-06-02-windows-8-comes-with-new-look-touch-and-start-screen/</guid>
       <description>&lt;p&gt;Microsoft has given a demonstration of their next generation operating system calling &lt;strong&gt;Windows 8.&lt;/strong&gt; It appears to be a complete revamp of the Windows interface, designed around a tile system like that of Windows Phone 7, and focused on being equally accessible via touchscreen interface or mouse and keyboard.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/-D_djfJg1Fxw/Teet2iWaySI/AAAAAAAACDM/1sTPHheFEdY/s1600-h/image%25255B2%25255D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/-jXoETJLJU-g/Teet3rrn7uI/AAAAAAAACDQ/WhgNtJ620pM/image_thumb.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Earlier, we saw many posts related to &lt;a href=&#34;http://www.cosmogeek.info/2011/03/windows-8-can-be-installed-in-8-minutes.html&#34;&gt;Windows 8&lt;/a&gt; in this blog, detailing leak plans, 8 minutes of installation and restoration, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WP7 Mango Includes Web Based Marketplace</title>
-      <link>https://example.org/posts/2011-05-26-wp7-mango-includes-web-based-marketplace/</link>
+      <link>//localhost:1313/posts/2011-05-26-wp7-mango-includes-web-based-marketplace/</link>
       <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-05-26-wp7-mango-includes-web-based-marketplace/</guid>
+      <guid>//localhost:1313/posts/2011-05-26-wp7-mango-includes-web-based-marketplace/</guid>
       <description>&lt;p&gt;Just like Apple’s App Store, Google’s Android Market and Amazon’s Appstore for Android; Microsoft announced a web based version of Windows Marketplace in conjunction with &lt;strong&gt;&lt;a href=&#34;http://www.cosmogeek.info/2011/05/500-new-features-in-windows-phone-7.html&#34;&gt;WP7 Mango roll-out&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;You can read about the announcement of all new &lt;strong&gt;500 features&lt;/strong&gt; in &lt;strong&gt;Windows Phone 7 Mango&lt;/strong&gt; in the last post &lt;a href=&#34;http://www.cosmogeek.info/2011/05/500-new-features-in-windows-phone-7.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The web version of Marketplace will launch with new OS Mango later this year and gives you a chance for discovering apps and games.&lt;/p&gt;</description>
     </item>
     <item>
       <title>500 New Features in Windows Phone 7 Mango</title>
-      <link>https://example.org/posts/2011-05-25-500-new-features-in-windows-phone-7-mango/</link>
+      <link>//localhost:1313/posts/2011-05-25-500-new-features-in-windows-phone-7-mango/</link>
       <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-05-25-500-new-features-in-windows-phone-7-mango/</guid>
+      <guid>//localhost:1313/posts/2011-05-25-500-new-features-in-windows-phone-7-mango/</guid>
       <description>&lt;p&gt;Microsoft yesterday provided the first look of the next release of Windows Phone code named &lt;strong&gt;“Mango”&lt;/strong&gt; bringing &lt;strong&gt;500&lt;/strong&gt; new features.&lt;/p&gt;
 &lt;p&gt;This update will be available to all WP7 devices starting from Fall and the Redmond based firm also announced that new devices from Acer, Fujitsu, ZTE and &lt;a href=&#34;http://www.cosmogeek.info/2011/02/nokia-will-use-windows-phone-7-mango.html&#34;&gt;Nokia&lt;/a&gt; (?) will come preloaded with Mango later this year.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/Td0XKlfrk2I/AAAAAAAACB4/yCqg5sICeBc/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/Td0XLWIx-eI/AAAAAAAACB8/lsYbGwZjKJM/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -632,9 +632,9 @@ Quick Cards, which will provide relevant info (included related apps) about a pr
     </item>
     <item>
       <title>Confirmed! Microsoft Bought Skype for $8.5 Billion</title>
-      <link>https://example.org/posts/2011-05-10-confirmed-microsoft-bought-skype-for-8-5-billion/</link>
+      <link>//localhost:1313/posts/2011-05-10-confirmed-microsoft-bought-skype-for-8-5-billion/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-05-10-confirmed-microsoft-bought-skype-for-8-5-billion/</guid>
+      <guid>//localhost:1313/posts/2011-05-10-confirmed-microsoft-bought-skype-for-8-5-billion/</guid>
       <description>&lt;p&gt;Its confirmed now! After &lt;a href=&#34;http://online.wsj.com/article/SB10001424052748703730804576313932659388852.html?ru=yahoo&amp;amp;mod=yahoo_hs&#34;&gt;Wall Street Journal’s&lt;/a&gt; report, All Things Digital has now &lt;a href=&#34;http://kara.allthingsd.com/20110509/microsoft-will-announce-acquistion-of-skype-tomorrow-morning/&#34;&gt;confirmed&lt;/a&gt; that Microsoft just bought Skype for a huge amount of &lt;strong&gt;$8.5 billion.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This deal to buy Internet telephone company Skype is officially going to be announced early tomorrow morning.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TcjsWl67zrI/AAAAAAAAB-A/-UE2GmXr1Is/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TcjsXvWmz6I/AAAAAAAAB-E/JKA34NUV3jk/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -643,9 +643,9 @@ Quick Cards, which will provide relevant info (included related apps) about a pr
     </item>
     <item>
       <title>Developers, Developers, Developers By Steve Ballmer</title>
-      <link>https://example.org/posts/2011-05-05-developers-developers-developers-by-steve-ballmer/</link>
+      <link>//localhost:1313/posts/2011-05-05-developers-developers-developers-by-steve-ballmer/</link>
       <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-05-05-developers-developers-developers-by-steve-ballmer/</guid>
+      <guid>//localhost:1313/posts/2011-05-05-developers-developers-developers-by-steve-ballmer/</guid>
       <description>&lt;p&gt;Do you remember Steve Ballmer toning ‘&lt;strong&gt;Developers, Developers, Developers…’&lt;/strong&gt; which had set the Internet surprise! Ballmer is quite passionate about technology and of course Developers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TcLHRlD3vzI/AAAAAAAAB9s/xAb2uetsoa8/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TcLHSgdFcpI/AAAAAAAAB9w/RsbI0zdoqEY/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here is the original version of that video taken from YouTube -&lt;/p&gt;
@@ -682,9 +682,9 @@ so I can test the objects of my creation&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Launched Business Intelligence Labs</title>
-      <link>https://example.org/posts/2011-05-05-microsoft-launched-business-intelligence-labs/</link>
+      <link>//localhost:1313/posts/2011-05-05-microsoft-launched-business-intelligence-labs/</link>
       <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-05-05-microsoft-launched-business-intelligence-labs/</guid>
+      <guid>//localhost:1313/posts/2011-05-05-microsoft-launched-business-intelligence-labs/</guid>
       <description>&lt;p&gt;In addition to Microsoft series of many labs (Office Labs, Fused Labs, Dev Labs…), it now added &lt;strong&gt;Business Intelligence (BI)&lt;/strong&gt; Labs to it. These labs are meant for showcasing the technologies which can be later converted into full-fledged commercial products.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TcK8PG7tbNI/AAAAAAAAB9k/aepBaxbWOZk/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TcK8QQ0FugI/AAAAAAAAB9o/uAAeanYKW_M/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BI Labs is a collection of experimental business intelligence projects and useful applications made available from internal sources across Microsoft.&lt;/p&gt;
@@ -696,9 +696,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Microsoft to Increase Prices for Certifications Exams</title>
-      <link>https://example.org/posts/2011-04-25-microsoft-to-increase-prices-for-certifications-exams/</link>
+      <link>//localhost:1313/posts/2011-04-25-microsoft-to-increase-prices-for-certifications-exams/</link>
       <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-04-25-microsoft-to-increase-prices-for-certifications-exams/</guid>
+      <guid>//localhost:1313/posts/2011-04-25-microsoft-to-increase-prices-for-certifications-exams/</guid>
       <description>&lt;p&gt;Effective July 1, 2011, Microsoft has decided to increase retail price of its &lt;strong&gt;Certifications Exams&lt;/strong&gt;. The price increase will vary from country to country and in India, the price change will be effective on Aug 1, 2011.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TbUrk9vfPmI/AAAAAAAAB8c/m1LuMPoFKLM/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TbUrmOU8TwI/AAAAAAAAB8g/wj7QLLu-AQk/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;According to the &lt;a href=&#34;http://www.microsoft.com/learning/en/us/certification/cert-pricing-FAQ.aspx&#34;&gt;FAQ&lt;/a&gt; page:&lt;/p&gt;
@@ -708,28 +708,28 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Angry Birds for Windows Phone 7 Coming on May 25</title>
-      <link>https://example.org/posts/2011-04-15-angry-birds-for-windows-phone-7-coming-on-may-25/</link>
+      <link>//localhost:1313/posts/2011-04-15-angry-birds-for-windows-phone-7-coming-on-may-25/</link>
       <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-04-15-angry-birds-for-windows-phone-7-coming-on-may-25/</guid>
+      <guid>//localhost:1313/posts/2011-04-15-angry-birds-for-windows-phone-7-coming-on-may-25/</guid>
       <description>&lt;p&gt;The much awaited popular iOS and Android platform game &lt;strong&gt;Angry Birds&lt;/strong&gt; is coming now on Windows Phone 7. The news is revealed at the on-going MIX 2011 event.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TagkKT4G-lI/AAAAAAAAB7U/SuDs0Q2wjh8/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TagkLjcguaI/AAAAAAAAB7Y/LOa5IGmnG5E/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;According to the official announcement, Xbox Live title Angry Birds will be released on 25th of May. Xbox Live was supposed to to start on April 6th but was quietly delayed for reasons unknown. Furthermore, a competent Angry Birds clone “&lt;strong&gt;Chicks &amp;lsquo;N Vixens”&lt;/strong&gt; has stolen the attention of WP7 fans. You can try out this game on your WP7 device &lt;a href=&#34;http://redirect.zune.net/redirect?type=phoneApp&amp;amp;id=8394d308-f326-e011-854c-00237de2db9e&amp;amp;source=VSGallery&#34;&gt;here&lt;/a&gt; directly from Zune.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Type Indian Rupee (₹) Symbol in Windows</title>
-      <link>https://example.org/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/</link>
+      <link>//localhost:1313/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/</link>
       <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/</guid>
+      <guid>//localhost:1313/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/</guid>
       <description>&lt;p&gt;Microsoft has released an update recently to support the new currency symbol for the Indian Symbol for Windows.&lt;/p&gt;
 &lt;p&gt;Indian government has approved a standard symbol for Indian Rupee (just like $ US dollar sign) and later Unicode Consortium assigned a Unicode to that symbol so that it can be assigned to the standard keyboards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://commons.wikipedia.org/wiki/File:Indian_Rupee_symbol.svg&#34;&gt;&lt;img alt=&#34;The Symbol of Indian Rupee approved by the Uni&amp;hellip;&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/images/170px-Indian_Rupee_symbol.svg.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://commons.wikipedia.org/wiki/File:Indian_Rupee_symbol.svg&#34;&gt;&lt;img alt=&#34;The Symbol of Indian Rupee approved by the Uni&amp;hellip;&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2011-03-28-how-to-type-indian-rupee--symbol-in-windows/images/170px-Indian_Rupee_symbol.svg.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Paper media and advertisers have started using the above symbol already. You need to use separate fonts or keyboards to actually type this symbol.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Firefox 4 Set to Release on March 22</title>
-      <link>https://example.org/posts/2011-03-16-firefox-4-set-to-release-on-march-22/</link>
+      <link>//localhost:1313/posts/2011-03-16-firefox-4-set-to-release-on-march-22/</link>
       <pubDate>Wed, 16 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-03-16-firefox-4-set-to-release-on-march-22/</guid>
+      <guid>//localhost:1313/posts/2011-03-16-firefox-4-set-to-release-on-march-22/</guid>
       <description>&lt;p&gt;Mozilla has set a release date for the next iteration of its popular open-source browser &lt;strong&gt;Firefox 4&lt;/strong&gt; on &lt;strong&gt;March 22,&lt;/strong&gt; unless there is a show-stopping bug.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TYDQUiboGoI/AAAAAAAAB30/LAbu-EUN9DQ/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TYDQWOmjBjI/AAAAAAAAB34/ax0IOrnDP-A/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Last week, the company made the Release Candidate build available which includes an updated interface for all platforms that’s sleeker and easier to use.&lt;/p&gt;
@@ -737,9 +737,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Zune is not dead, it’s an iTunes killer</title>
-      <link>https://example.org/posts/2011-03-15-zune-is-not-dead-its-an-itunes-killer/</link>
+      <link>//localhost:1313/posts/2011-03-15-zune-is-not-dead-its-an-itunes-killer/</link>
       <pubDate>Tue, 15 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-03-15-zune-is-not-dead-its-an-itunes-killer/</guid>
+      <guid>//localhost:1313/posts/2011-03-15-zune-is-not-dead-its-an-itunes-killer/</guid>
       <description>&lt;p&gt;Microsoft has finally killed off the Zune players because of its demand and instead will shift its focus to other devices and software.&lt;/p&gt;
 &lt;p&gt;Zune is a Microsoft’s answer to Apple iPod which was introduced in 2006 and never managed to break the iPod’s grip on the music player industry.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TX-5c1o-FyI/AAAAAAAAB3k/j2i1yRg4Xnw/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TX-5fVE2HNI/AAAAAAAAB3o/vPRLF6L4kM4/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -747,26 +747,26 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Windows 8 can be Installed in 8 Minutes, Restores in 2 Minutes</title>
-      <link>https://example.org/posts/2011-03-05-windows-8-can-be-installed-in-8-minutes-restores-in-2-minutes/</link>
+      <link>//localhost:1313/posts/2011-03-05-windows-8-can-be-installed-in-8-minutes-restores-in-2-minutes/</link>
       <pubDate>Sat, 05 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-03-05-windows-8-can-be-installed-in-8-minutes-restores-in-2-minutes/</guid>
+      <guid>//localhost:1313/posts/2011-03-05-windows-8-can-be-installed-in-8-minutes-restores-in-2-minutes/</guid>
       <description>&lt;p&gt;A Chinese site &lt;a href=&#34;http://www.win7china.com/html/12933.html&#34;&gt;Win7China&lt;/a&gt; today managed to get hold of a few screenshots of Microsoft’s next operating system (popularly known as &lt;strong&gt;&lt;a href=&#34;http://www.cosmogeek.info/2010/06/windows-8-plans-leaked-many-details.html&#34;&gt;Windows 8&lt;/a&gt;&lt;/strong&gt;) as well as some interesting features to share with everyone.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TXKDe-YXVbI/AAAAAAAAB2U/fhwS8WQxKaw/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B7%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B11%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TXKDnSUnqUI/AAAAAAAAB2o/lMSIWzV9lWY/image_thumb%5B5%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Other features &lt;a href=&#34;http://www.cosmogeek.info/2010/06/windows-8-plans-leaked-many-details.html&#34;&gt;rumored&lt;/a&gt; around include Facial recognition, Windows Store. Steve Ballmer already &lt;a href=&#34;http://www.cosmogeek.info/2010/10/ballmer-windows-8-will-be-riskiest.html&#34;&gt;quoted&lt;/a&gt; past in an interview about the riskiest product ever could be the next release of Windows. Windows 8 is expected to be another revolutionary release to the Windows product line.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Integrate SP1 into Windows 7 Disc</title>
-      <link>https://example.org/posts/2011-02-26-how-to-integrate-sp1-into-windows-7-disc/</link>
+      <link>//localhost:1313/posts/2011-02-26-how-to-integrate-sp1-into-windows-7-disc/</link>
       <pubDate>Sat, 26 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-26-how-to-integrate-sp1-into-windows-7-disc/</guid>
+      <guid>//localhost:1313/posts/2011-02-26-how-to-integrate-sp1-into-windows-7-disc/</guid>
       <description>&lt;p&gt;Did you install the latest &lt;strong&gt;&lt;a href=&#34;http://www.cosmogeek.info/2011/02/remove-windows-7-sp1-backup-files-and.html&#34;&gt;Service Pack&lt;/a&gt;&lt;/strong&gt; Microsoft has released for &lt;strong&gt;Windows 7&lt;/strong&gt; few days ago? If not, do it right away and patch your OS. A typical Service Pack 1 installation takes at least 30 to 60 minutes depending on your computer configuration and files.&lt;/p&gt;
 &lt;p&gt;Imagine you got to format your machine and do a fresh Windows 7 installation. At that time, you need to install this update (read SP1) over again. There should be an easier method where you can integrate the service pack right into your Operating System disc which saves your valuable time!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Young Bill Gates and Steve Jobs</title>
-      <link>https://example.org/posts/2011-02-26-young-bill-gates-and-steve-jobs/</link>
+      <link>//localhost:1313/posts/2011-02-26-young-bill-gates-and-steve-jobs/</link>
       <pubDate>Sat, 26 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-26-young-bill-gates-and-steve-jobs/</guid>
+      <guid>//localhost:1313/posts/2011-02-26-young-bill-gates-and-steve-jobs/</guid>
       <description>&lt;p&gt;Nothing special about this post. Just sharing a classic picture of the legends.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TWlz3jrTBDI/AAAAAAAAB0g/Ojqh6w91rjc/s1600-h/Yyoung%20Bill%20Gates%20and%20Steve%20Jobs%5B5%5D.jpg&#34;&gt;&lt;img alt=&#34;Yyoung Bill Gates and Steve Jobs&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TWlz4vRXV1I/AAAAAAAAB0k/dwwMTZi3Kp0/Yyoung%20Bill%20Gates%20and%20Steve%20Jobs_thumb%5B2%5D.jpg?imgmax=800&#34; title=&#34;Yyoung Bill Gates and Steve Jobs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A short description from Wikipedia:&lt;/p&gt;
@@ -775,17 +775,17 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Remove Windows 7 SP1 Backup Files and Reclaim Disk Space</title>
-      <link>https://example.org/posts/2011-02-23-remove-windows-7-sp1-backup-files-and-reclaim-disk-space/</link>
+      <link>//localhost:1313/posts/2011-02-23-remove-windows-7-sp1-backup-files-and-reclaim-disk-space/</link>
       <pubDate>Wed, 23 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-23-remove-windows-7-sp1-backup-files-and-reclaim-disk-space/</guid>
+      <guid>//localhost:1313/posts/2011-02-23-remove-windows-7-sp1-backup-files-and-reclaim-disk-space/</guid>
       <description>&lt;p&gt;Now that everybody are excited about today’s &lt;a href=&#34;http://www.microsoft.com/downloads/en/details.aspx?FamilyID=c3202ce6-4056-4059-8a1b-3a9b77cdfdda&amp;amp;displaylang=en&#34;&gt;&lt;strong&gt;Service Pack 1 Final&lt;/strong&gt;&lt;/a&gt; Release for Windows 7 and Windows Server 2008 R2, how many of you know that Windows 7 keeps traces in your machine of the previous updates? These backup files are necessary for the operating system in case if you want to remove the update later.&lt;/p&gt;
 &lt;p&gt;The size of these backup files will be huge in size (more than 1 GB) which you may not require in future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nokia will use Windows Phone 7 Mango Update (WP 7.5)</title>
-      <link>https://example.org/posts/2011-02-16-nokia-will-use-windows-phone-7-mango-update-wp-7-5/</link>
+      <link>//localhost:1313/posts/2011-02-16-nokia-will-use-windows-phone-7-mango-update-wp-7-5/</link>
       <pubDate>Wed, 16 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-16-nokia-will-use-windows-phone-7-mango-update-wp-7-5/</guid>
+      <guid>//localhost:1313/posts/2011-02-16-nokia-will-use-windows-phone-7-mango-update-wp-7-5/</guid>
       <description>&lt;p&gt;Andrew Lees, President of Mobile Communications Business at Microsoft, confirmed that Nokia’s first device will be using Windows Phone 7′s Mango update aka WP 7.5. This update is expected to ship later this year.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TVvLobV724I/AAAAAAAAByQ/N70H_-g28xk/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TVvLprAENCI/AAAAAAAAByU/LiQ1LGxZSgU/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Earlier, we had a news of the Nokia and Microsoft &lt;a href=&#34;http://www.cosmogeek.info/2011/02/nokia-adopts-windows-phone-7-as.html&#34;&gt;partnership&lt;/a&gt;. Now, we have a confirmation of the exciting codename ‘Mango’ update. This update will include many exciting features -&lt;/p&gt;
@@ -794,9 +794,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Nokia Adopts Windows Phone 7 as &#39;Primary Platform&#39;</title>
-      <link>https://example.org/posts/2011-02-11-nokia-adopts-windows-phone-7-as-primary-platform/</link>
+      <link>//localhost:1313/posts/2011-02-11-nokia-adopts-windows-phone-7-as-primary-platform/</link>
       <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-11-nokia-adopts-windows-phone-7-as-primary-platform/</guid>
+      <guid>//localhost:1313/posts/2011-02-11-nokia-adopts-windows-phone-7-as-primary-platform/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.cosmogeek.info/2011/02/nokia-to-announce-partnership-with.html&#34;&gt;rumors&lt;/a&gt; are true now. Nokia confirms Microsoft partnership making &lt;strong&gt;&lt;a href=&#34;http://www.cosmogeek.info/2010/10/microsoft-officially-unveiled-windows.html&#34;&gt;Windows Phone 7&lt;/a&gt;&lt;/strong&gt; as the operating system of choice moving forward.&lt;/p&gt;
 &lt;p&gt;Nokia and Microsoft today announced plans to form a broad strategic partnership that would use their complementary strengths and expertise to create a new global mobile ecosystem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TVT96zx73yI/AAAAAAAABxk/vuRbCr_B8Lc/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TVT97iVScuI/AAAAAAAABxo/-zmHViAFo2Y/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -804,9 +804,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Nokia To Announce Partnership with Microsoft?</title>
-      <link>https://example.org/posts/2011-02-05-nokia-to-announce-partnership-with-microsoft/</link>
+      <link>//localhost:1313/posts/2011-02-05-nokia-to-announce-partnership-with-microsoft/</link>
       <pubDate>Sat, 05 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-05-nokia-to-announce-partnership-with-microsoft/</guid>
+      <guid>//localhost:1313/posts/2011-02-05-nokia-to-announce-partnership-with-microsoft/</guid>
       <description>&lt;p&gt;With Nokia’s recent issues with poor sales, rumors are once again burst that the mobile giant is batting its eyelashes at other operating system with the hopes of improving its fortunes.&lt;/p&gt;
 &lt;p&gt;Could it be &lt;strong&gt;Microkia?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TU2ZNiV15DI/AAAAAAAABxI/h_oVVDgfEls/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TU2ZPN933cI/AAAAAAAABxM/NvyyyaM90Tk/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -814,9 +814,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Google: Microsoft Is Cheating and Copying Our Search Results</title>
-      <link>https://example.org/posts/2011-02-02-google-microsoft-is-cheating-and-copying-our-search-results/</link>
+      <link>//localhost:1313/posts/2011-02-02-google-microsoft-is-cheating-and-copying-our-search-results/</link>
       <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-02-02-google-microsoft-is-cheating-and-copying-our-search-results/</guid>
+      <guid>//localhost:1313/posts/2011-02-02-google-microsoft-is-cheating-and-copying-our-search-results/</guid>
       <description>&lt;p&gt;Google set up a sting operation (!) in an attempt to catch Microsoft red-handed stealing their search results in Bing. Interestingly, Bing doesn’t deny this completely.&lt;/p&gt;
 &lt;p&gt;The whole sting operation is amazing and it started from Danny Sullivan’s &lt;a href=&#34;http://searchengineland.com/google-bing-is-cheating-copying-our-search-results-62914&#34;&gt;post&lt;/a&gt; and resulting Microsoft’s response on Bing search &lt;a href=&#34;http://www.bing.com/community/site_blogs/b/search/archive/2011/02/01/thoughts-on-search-quality.aspx&#34;&gt;quality&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TUkD5LDdORI/AAAAAAAABvc/Oyzca0miUNQ/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B8%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B15%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TUkD9sQSK3I/AAAAAAAABvw/4Pe7yjepvsc/image_thumb%5B9%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;uld ever enter into Google.&lt;/p&gt;
@@ -824,18 +824,18 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Microsoft Launches WebMatrix – Free Web Development Tool</title>
-      <link>https://example.org/posts/2011-01-19-microsoft-launches-webmatrix-free-web-development-tool/</link>
+      <link>//localhost:1313/posts/2011-01-19-microsoft-launches-webmatrix-free-web-development-tool/</link>
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-01-19-microsoft-launches-webmatrix-free-web-development-tool/</guid>
+      <guid>//localhost:1313/posts/2011-01-19-microsoft-launches-webmatrix-free-web-development-tool/</guid>
       <description>&lt;p&gt;Microsoft announced the availability of &lt;strong&gt;WebMatrix,&lt;/strong&gt; a free web development tool designed to help website developers of all skill levels easily create, customize and publish websites to the Internet. It includes  a set of tools to create new websites, using code provided through a variety of available templates or using free open source Web applications, like WordPress, Joomla!, DotNetNuke and Umbraco.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TTcqdcESx5I/AAAAAAAABtw/b7wUTv0TzCw/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TTcqeqcVt8I/AAAAAAAABt0/sg5yaqtthJQ/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;WebMatrix provides all the features you need in a single unified interface. You can easily edit your files, manage database and modify server settings – all at a single place. It brings together a Web server, a database, and programming frameworks into single, integrated experience. It lets you code, test, and deploy both ASP.NET and PHP applications side by side.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft to Sneak Preview Windows 8 tomorrow?</title>
-      <link>https://example.org/posts/2011-01-05-microsoft-to-sneak-preview-windows-8-tomorrow/</link>
+      <link>//localhost:1313/posts/2011-01-05-microsoft-to-sneak-preview-windows-8-tomorrow/</link>
       <pubDate>Wed, 05 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2011-01-05-microsoft-to-sneak-preview-windows-8-tomorrow/</guid>
+      <guid>//localhost:1313/posts/2011-01-05-microsoft-to-sneak-preview-windows-8-tomorrow/</guid>
       <description>&lt;p&gt;The International Consumer Electronics Show (CES) 2011 will kick off tomorrow at around 8:00 PM IST Thursday, January 6, commencing with the keynote address from Steve Ballmer, CEO Microsoft.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TSR2DdDdZvI/AAAAAAAABsk/gzelGJnTEKU/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TSR2EgFQT3I/AAAAAAAABso/pb5MivtFOx4/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;So, what you can expect from Microsoft at this four day International event?&lt;/p&gt;
@@ -845,17 +845,17 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Girish Kundlani Featured On Windows Azure Team Blog</title>
-      <link>https://example.org/posts/2010-12-14-girish-kundlani-featured-on-windows-azure-team-blog/</link>
+      <link>//localhost:1313/posts/2010-12-14-girish-kundlani-featured-on-windows-azure-team-blog/</link>
       <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-12-14-girish-kundlani-featured-on-windows-azure-team-blog/</guid>
+      <guid>//localhost:1313/posts/2010-12-14-girish-kundlani-featured-on-windows-azure-team-blog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://twitter.com/girishku&#34;&gt;Girish Kundlani&lt;/a&gt; speaks about Windows Azure and its benefits in an exclusive interview with MSDN blog team as a part of their ‘Real World Windows Azure’ series.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Windows Azure&lt;/strong&gt; is the real cloud computing platform that allows Microsoft datacenters to host and run applications. Rather than providing software that customers can install and run themselves on their own computers, Windows Azure today is a service: Customers use it to run applications and store data on Internet-accessible machines owned by Microsoft.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft to Announce a Tablet running Windows 8?</title>
-      <link>https://example.org/posts/2010-12-14-microsoft-to-announce-a-tablet-running-windows-8/</link>
+      <link>//localhost:1313/posts/2010-12-14-microsoft-to-announce-a-tablet-running-windows-8/</link>
       <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-12-14-microsoft-to-announce-a-tablet-running-windows-8/</guid>
+      <guid>//localhost:1313/posts/2010-12-14-microsoft-to-announce-a-tablet-running-windows-8/</guid>
       <description>&lt;p&gt;More than a decade ago, Bill Gates introduced the world an entirely new concept of computing – Tablet PC. However, the tablet boom really kicked off when &lt;a href=&#34;http://www.cosmogeek.info/search/label/Apple&#34;&gt;Apple&lt;/a&gt; brought the magical iPad.&lt;/p&gt;
 &lt;p&gt;And here is the exciting news from &lt;strong&gt;&lt;a href=&#34;http://bits.blogs.nytimes.com/2010/12/13/microsoft-to-announce-new-slates-targeting-ipad/&#34;&gt;The New York Times&lt;/a&gt;&lt;/strong&gt; -&lt;/p&gt;
 &lt;blockquote&gt;
@@ -863,18 +863,18 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Xbox Kinect Comes to India for 9990/-</title>
-      <link>https://example.org/posts/2010-12-02-xbox-kinect-comes-to-india-for-9990/</link>
+      <link>//localhost:1313/posts/2010-12-02-xbox-kinect-comes-to-india-for-9990/</link>
       <pubDate>Thu, 02 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-12-02-xbox-kinect-comes-to-india-for-9990/</guid>
+      <guid>//localhost:1313/posts/2010-12-02-xbox-kinect-comes-to-india-for-9990/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kinect&lt;/strong&gt; for Xbox 360 that brings controller-free gaming to the living room got an enthralling response of over &lt;a href=&#34;http://www.xbox.com/en-US/Press/2010/Kinect-OneMillion&#34;&gt;1 million units&lt;/a&gt; sold in the first ten days. On November 24, Microsoft India has introduced Kinect for Xbox 360 for the Indian audience. Microsoft will offer Kinect in two editions - &lt;strong&gt;Standalone bundle&lt;/strong&gt; and &lt;strong&gt;All-in-one bundle.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TPfE2KJLRNI/AAAAAAAABkw/iOZzez1-4HI/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TPfE3mGPlLI/AAAAAAAABk0/Qfqz1aKHRT0/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The standalone Kinect for Xbox 360 unit along with Kinect Adventures disc would be sold for &lt;strong&gt;Rs. 9,990&lt;/strong&gt;. All-in-one bundle with Xbox 360 4 GB Slim console and Kinect Sensor would cost &lt;strong&gt;Rs. 22,990.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happy 25th Birthday Windows!</title>
-      <link>https://example.org/posts/2010-11-20-happy-25th-birthday-windows/</link>
+      <link>//localhost:1313/posts/2010-11-20-happy-25th-birthday-windows/</link>
       <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-11-20-happy-25th-birthday-windows/</guid>
+      <guid>//localhost:1313/posts/2010-11-20-happy-25th-birthday-windows/</guid>
       <description>&lt;p&gt;Microsoft Windows completes 25 years today. &lt;strong&gt;On November 20, 1985&lt;/strong&gt;, the first version &lt;strong&gt;Windows 1.0&lt;/strong&gt; was released.&lt;/p&gt;
 &lt;p&gt;Can you recall how Windows 1.0 looked like? To be frank, I was born in the same year and no real hands-on experience for me until Windows 95! .&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TOf10DcsMcI/AAAAAAAABiE/-NAaCRqmumE/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B8%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B12%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B16%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B20%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B24%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B28%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B32%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B36%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B40%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B45%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B49%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B53%5D.png&#34; title=&#34;image&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TOf2erpuYCI/AAAAAAAABjs/BqTYOYXdT4c/image_thumb%5B27%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -882,9 +882,9 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Search Your Favourite App across all Platforms at one place</title>
-      <link>https://example.org/posts/2010-11-03-search-your-favourite-app-across-all-platforms-at-one-place/</link>
+      <link>//localhost:1313/posts/2010-11-03-search-your-favourite-app-across-all-platforms-at-one-place/</link>
       <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-11-03-search-your-favourite-app-across-all-platforms-at-one-place/</guid>
+      <guid>//localhost:1313/posts/2010-11-03-search-your-favourite-app-across-all-platforms-at-one-place/</guid>
       <description>&lt;p&gt;Are you an owner of a smartphone? Are you frustrated with trying the right Mobile App for your device? Do you develop Apps and want to know the contenders of your idea?&lt;/p&gt;
 &lt;p&gt;Discover the world of Mobile using &lt;strong&gt;Mimvi&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TNGb90zehTI/AAAAAAAABgA/5xjMgvSkFkA/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TNGb_AP3gsI/AAAAAAAABgE/X3s5rtNasas/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -892,26 +892,26 @@ Fuzzy Lookup Add-in for Microsoft Excel 2010&lt;/strong&gt;&lt;/p&gt;</descripti
     </item>
     <item>
       <title>Ballmer: Windows 8 Will Be The Riskiest Product Bet [Video]</title>
-      <link>https://example.org/posts/2010-10-24-ballmer-windows-8-will-be-the-riskiest-product-bet-video/</link>
+      <link>//localhost:1313/posts/2010-10-24-ballmer-windows-8-will-be-the-riskiest-product-bet-video/</link>
       <pubDate>Sun, 24 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-10-24-ballmer-windows-8-will-be-the-riskiest-product-bet-video/</guid>
+      <guid>//localhost:1313/posts/2010-10-24-ballmer-windows-8-will-be-the-riskiest-product-bet-video/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Windows 7&lt;/strong&gt; has been a powerful success for Microsoft. As an evolutionary upgrade to Vista, it patched almost all of Vista’s glaring holes: broken driver support, sluggish performance and the horribly annoying User-Account Control. It sold more than 240 million licenses in one year.&lt;/p&gt;
 &lt;p&gt;Asked about the riskiest product bet the Redmond crew is currently developing, the answer is not Windows Phone 7 or Bing or even Office Web Apps - its fearless leader &lt;strong&gt;Steve Ballmer&lt;/strong&gt; took no time in answering &lt;strong&gt;&amp;ldquo;the next release of Windows.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Unveils “Office 365” - New cloud service</title>
-      <link>https://example.org/posts/2010-10-20-microsoft-unveils-office-365-new-cloud-service/</link>
+      <link>//localhost:1313/posts/2010-10-20-microsoft-unveils-office-365-new-cloud-service/</link>
       <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-10-20-microsoft-unveils-office-365-new-cloud-service/</guid>
+      <guid>//localhost:1313/posts/2010-10-20-microsoft-unveils-office-365-new-cloud-service/</guid>
       <description>&lt;p&gt;Microsoft announced yesterday the newest implementation of cloud services in the MS Office platform, called &lt;strong&gt;Office 365&lt;/strong&gt;. It is doubling down on its commitment to the cloud with the launch of &lt;strong&gt;Office 365&lt;/strong&gt;, a service that combines Microsoft Office, SharePoint Online, Exchange Online and Lync Online with the cloud.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TL7kY8agysI/AAAAAAAABeM/tCZjykyhnkM/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TL7kagPugZI/AAAAAAAABeQ/fDE5WjS45Bg/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;There are two editions of Office 365. Office 365 for Small Businesses is designed for organizations of one to 25 people. It’s a pre-built package that includes Office Web Apps, Lync, e-mail sync and more. It doesn’t require IT support on the user’s end and will cost $6 per user per month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bing “Likes” Facebook</title>
-      <link>https://example.org/posts/2010-10-16-bing-likes-facebook/</link>
+      <link>//localhost:1313/posts/2010-10-16-bing-likes-facebook/</link>
       <pubDate>Sat, 16 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-10-16-bing-likes-facebook/</guid>
+      <guid>//localhost:1313/posts/2010-10-16-bing-likes-facebook/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TLlgCH8R4PI/AAAAAAAABdk/aXfKFBqKqiQ/s1600-h/image%5B4%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TLlgDv2Sc8I/AAAAAAAABdo/4U_7s8b3boc/image_thumb%5B2%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft has announced that Bing will partner with Facebook to deliver personalized search results based on your social network.&lt;/p&gt;
 &lt;p&gt;Bing will enable a great search experience for people queries, by bringing in information from your Facebook friends and people who share networks with you, and will show you what your friends have liked as you navigate through search results in Bing.&lt;br&gt;
@@ -919,9 +919,9 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Microsoft officially unveiled Windows Phone 7</title>
-      <link>https://example.org/posts/2010-10-11-microsoft-officially-unveiled-windows-phone-7/</link>
+      <link>//localhost:1313/posts/2010-10-11-microsoft-officially-unveiled-windows-phone-7/</link>
       <pubDate>Mon, 11 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-10-11-microsoft-officially-unveiled-windows-phone-7/</guid>
+      <guid>//localhost:1313/posts/2010-10-11-microsoft-officially-unveiled-windows-phone-7/</guid>
       <description>&lt;p&gt;Microsoft officially unveiled its Windows Phone 7 mobile operating system  few minutes ago (&lt;em&gt;around 7:00 pm IST October 11&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;Steve Ballmer announced that there will be over 60 mobile operators offering ten Windows Phone 7 in more than 30 countries worldwide.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/TLMvWRFePbI/AAAAAAAABdc/TGAaWnqmhBk/s1600-h/image%5B3%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh4.ggpht.com/_40bmzDo_mBs/TLMvX5-lOaI/AAAAAAAABdg/UGgNJ1WjYTs/image_thumb%5B1%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -930,26 +930,26 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Microsoft shutting down ‘Spaces’–ties up with WordPress</title>
-      <link>https://example.org/posts/2010-09-28-microsoft-shutting-down-spaces-ties-up-with-wordpress/</link>
+      <link>//localhost:1313/posts/2010-09-28-microsoft-shutting-down-spaces-ties-up-with-wordpress/</link>
       <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-09-28-microsoft-shutting-down-spaces-ties-up-with-wordpress/</guid>
+      <guid>//localhost:1313/posts/2010-09-28-microsoft-shutting-down-spaces-ties-up-with-wordpress/</guid>
       <description>&lt;p&gt;Nearly six years after launching its own blog publishing platform, Microsoft is effectively ending development of &lt;strong&gt;Windows Live Spaces&lt;/strong&gt; and announcing a partnership to upgrade users of the service to &lt;strong&gt;WordPress.com.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The companies just made the announcement at the &lt;a href=&#34;http://techcrunch.com/2010/09/27/techcrunch-disrupt-live-day-1/&#34;&gt;TechCrunch Disrupt conference&lt;/a&gt; in San Francisco. &amp;ldquo;Automattic is a company filled with great people focused on blogging and how to continually make their blogging experiences better and better,&amp;rdquo; says Dharmesh Mehta, director of Windows Live product management, &lt;a href=&#34;http://windowsteamblog.com/windows_live/b/windowslive/archive/2010/09/27/wordpress-com-and-windows-live-partnering-together-and-providing-an-upgrade-for-30-million-windows-live-spaces-customers.aspx&#34;&gt;in a blog post&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Confirmed! Windows Phone 7 to Launch on October 21</title>
-      <link>https://example.org/posts/2010-09-26-confirmed-windows-phone-7-to-launch-on-october-21/</link>
+      <link>//localhost:1313/posts/2010-09-26-confirmed-windows-phone-7-to-launch-on-october-21/</link>
       <pubDate>Sun, 26 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-09-26-confirmed-windows-phone-7-to-launch-on-october-21/</guid>
+      <guid>//localhost:1313/posts/2010-09-26-confirmed-windows-phone-7-to-launch-on-october-21/</guid>
       <description>&lt;p&gt;Microsoft will launch a wide range of Windows Phone 7 devices on &lt;strong&gt;October 21&lt;/strong&gt; in UK, France, Germany, Italy and Spain (&lt;em&gt;US launch date is not confirmed yet&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TJ-AZmvHlqI/AAAAAAAABac/UNCENGh8KDI/s1600-h/image%5B5%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh6.ggpht.com/_40bmzDo_mBs/TJ-AalTUcUI/AAAAAAAABag/dPvkE45riMo/image_thumb%5B3%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft will be holding an open house on the 11th of October in New York City where the focus is expected to be Windows Phone 7 and Kinect. The holiday season could explain a November launch for WP7 in the US.&lt;/p&gt;</description>
     </item>
     <item>
       <title>It’s IE9 Beta Download Day - I’m Genuinely excited!</title>
-      <link>https://example.org/posts/2010-09-15-its-ie9-beta-download-day-im-genuinely-excited/</link>
+      <link>//localhost:1313/posts/2010-09-15-its-ie9-beta-download-day-im-genuinely-excited/</link>
       <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-09-15-its-ie9-beta-download-day-im-genuinely-excited/</guid>
+      <guid>//localhost:1313/posts/2010-09-15-its-ie9-beta-download-day-im-genuinely-excited/</guid>
       <description>&lt;p&gt;I’m Genuinely excited! I don’t remember feeling this way when Chrome 6, Firefox 3.6 or Opera 10.60 were released — and IE9 is just a beta.&lt;/p&gt;
 &lt;p&gt;There are several reasons -&lt;/p&gt;
 &lt;ul&gt;
@@ -965,26 +965,26 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Breaking News: Windows Phone 7 launching 11 October</title>
-      <link>https://example.org/posts/2010-09-09-breaking-news-windows-phone-7-launching-11-october/</link>
+      <link>//localhost:1313/posts/2010-09-09-breaking-news-windows-phone-7-launching-11-october/</link>
       <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-09-09-breaking-news-windows-phone-7-launching-11-october/</guid>
+      <guid>//localhost:1313/posts/2010-09-09-breaking-news-windows-phone-7-launching-11-october/</guid>
       <description>&lt;p&gt;Multiple sources familiar with the matter have confirmed to Pocket-lint that Microsoft will launch its new mobile operating system, &lt;strong&gt;Windows Phone 7&lt;/strong&gt;, on &lt;strong&gt;11 October 2010.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pocket-lint has learnt that the Redmond-based company will use New York as the global stage for the launch, which will be beamed around the world.&lt;/p&gt;
 &lt;p&gt;Although none of our sources were prepared to be named, all are senior figures within the industry that we know and trust.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zoom.it from Microsoft – View, Zoom and Share HQ images</title>
-      <link>https://example.org/posts/2010-08-06-zoom-it-from-microsoft-view-zoom-and-share-hq-images/</link>
+      <link>//localhost:1313/posts/2010-08-06-zoom-it-from-microsoft-view-zoom-and-share-hq-images/</link>
       <pubDate>Fri, 06 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-08-06-zoom-it-from-microsoft-view-zoom-and-share-hq-images/</guid>
+      <guid>//localhost:1313/posts/2010-08-06-zoom-it-from-microsoft-view-zoom-and-share-hq-images/</guid>
       <description>&lt;p&gt;Zoom.it is a free service for viewing and sharing high-resolution imagery. Give a link to any image and it will give you a beautiful new way to experience it - along with a nice short URL.&lt;/p&gt;
 &lt;p&gt;Zoom.it converts your image to the  Deep Zoom format, which lets you smoothly and efficiently explore the whole image, no matter how large. Zoom.it runs on  Windows Azure and takes advantage of  Microsoft Silverlight to provide the richest, most fluid zooming experience possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows Phone 7: Microsoft confirms hardware partners</title>
-      <link>https://example.org/posts/2010-07-24-windows-phone-7-microsoft-confirms-hardware-partners/</link>
+      <link>//localhost:1313/posts/2010-07-24-windows-phone-7-microsoft-confirms-hardware-partners/</link>
       <pubDate>Sat, 24 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-07-24-windows-phone-7-microsoft-confirms-hardware-partners/</guid>
+      <guid>//localhost:1313/posts/2010-07-24-windows-phone-7-microsoft-confirms-hardware-partners/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TEs_D7LSJFI/AAAAAAAABSA/I4ZzRCShjgA/s1600-h/image%5B6%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/TEs_FxBOfLI/AAAAAAAABSI/MzaSx6DmKRk/image_thumb%5B4%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft has confirmed the hardware partners that will be launching Windows Phone 7 handsets&lt;/p&gt;
 &lt;p&gt;Greg Sullivan, senior product manager for Microsoft, told that he could expect handsets from &lt;strong&gt;Dell, Asus, LG, HTC, and Samsung&lt;/strong&gt; at the launch later this year.&lt;/p&gt;
@@ -994,9 +994,9 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Windows 8 Plans Leaked: Many Details Revealed</title>
-      <link>https://example.org/posts/2010-06-29-windows-8-plans-leaked-many-details-revealed/</link>
+      <link>//localhost:1313/posts/2010-06-29-windows-8-plans-leaked-many-details-revealed/</link>
       <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-06-29-windows-8-plans-leaked-many-details-revealed/</guid>
+      <guid>//localhost:1313/posts/2010-06-29-windows-8-plans-leaked-many-details-revealed/</guid>
       <description>&lt;p&gt;The Italian Windows site “Windowsette” got a hold of some super secret squirrel Microsoft presentations laying around on the Internet somewhere. The original leak comes from the Microsoft Journal, an enthusiast blog written by Francisco Martin, who lists himself as a Microsoft VIP Tester.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Key points from the presentation:&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1005,51 +1005,51 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Microsoft Needs To Cut 30,000-40,000 Employees, Says Ex-Microsoftie</title>
-      <link>https://example.org/posts/2010-06-14-microsoft-needs-to-cut-30000-40000-employees-says-ex-microsoftie/</link>
+      <link>//localhost:1313/posts/2010-06-14-microsoft-needs-to-cut-30000-40000-employees-says-ex-microsoftie/</link>
       <pubDate>Mon, 14 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-06-14-microsoft-needs-to-cut-30000-40000-employees-says-ex-microsoftie/</guid>
+      <guid>//localhost:1313/posts/2010-06-14-microsoft-needs-to-cut-30000-40000-employees-says-ex-microsoftie/</guid>
       <description>&lt;p&gt;In our never ending quest to learn more about Microsoft and what it&amp;rsquo;s like inside the company, we spent a half hour chatting with a former high level employee at the company yesterday.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s two basic problems at the company, according to this ex-Microsoftie. The management style is all screwed up, and there&amp;rsquo;s just too many people working there.&lt;/p&gt;
 &lt;p&gt;An entertainment business is different from a mobile business, which is different from enterprise software business. Yet, they&amp;rsquo;re all run with the same managerial style at Microsoft.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Shutters Bing Cashback</title>
-      <link>https://example.org/posts/2010-06-04-microsoft-shutters-bing-cashback/</link>
+      <link>//localhost:1313/posts/2010-06-04-microsoft-shutters-bing-cashback/</link>
       <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-06-04-microsoft-shutters-bing-cashback/</guid>
+      <guid>//localhost:1313/posts/2010-06-04-microsoft-shutters-bing-cashback/</guid>
       <description>&lt;p&gt;Microsoft has shut down Bing Cashback, according to a blog post.  Bing Cashback, which is a program that allows users to save money when they purchase items found using Bing search, will be shut down on July 30, 2010.&lt;/p&gt;
 &lt;p&gt;Bing team tweeeted just now (25min ago at the time of writing this post) - &lt;a href=&#34;http://twitter.com/bing/status/15431895368&#34; title=&#34;http://twitter.com/bing/status/15431895368&#34;&gt;http://twitter.com/bing/status/15431895368&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The blog post says that Cashback is being shut down due to lack of adoption. Cashback offers will still be available until the end of July and users will have a year to redeem any money they’ve earned through the program.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA Demonstrates Streaming 3D Video Using Microsoft Silverlight</title>
-      <link>https://example.org/posts/2010-06-01-nvidia-demonstrates-streaming-3d-video-using-microsoft-silverlight/</link>
+      <link>//localhost:1313/posts/2010-06-01-nvidia-demonstrates-streaming-3d-video-using-microsoft-silverlight/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-06-01-nvidia-demonstrates-streaming-3d-video-using-microsoft-silverlight/</guid>
+      <guid>//localhost:1313/posts/2010-06-01-nvidia-demonstrates-streaming-3d-video-using-microsoft-silverlight/</guid>
       <description>&lt;p&gt;NVIDIA 3D Vision Now Supports High-Definition 3D Internet Video&lt;/p&gt;
 &lt;p&gt;COMPUTEX 2010—TAIPEI—May 31, 2010—NVIDIA today demonstrated 3D video streamed live over the Internet using an NVIDIA® 3D VisionTM PC, Microsoft Silverlight and IIS Smooth Streaming technology. The demonstration, which streamed the music video “We Are the World” 3D, at a press conference at Computex, comes at a time when consumer interest in seeing 3D movies is at its highest level ever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Bing to Replace Google Search in iPhone OS 4</title>
-      <link>https://example.org/posts/2010-05-29-microsoft-bing-to-replace-google-search-in-iphone-os-4/</link>
+      <link>//localhost:1313/posts/2010-05-29-microsoft-bing-to-replace-google-search-in-iphone-os-4/</link>
       <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-05-29-microsoft-bing-to-replace-google-search-in-iphone-os-4/</guid>
+      <guid>//localhost:1313/posts/2010-05-29-microsoft-bing-to-replace-google-search-in-iphone-os-4/</guid>
       <description>&lt;p&gt;According to sources, the next version of iPhone OS, which is set to release this June will have Bing as its default search engine in Mobile Safari. Microsoft and Apple have reportedly been in talks over a possible search deal since January of this year, but since then there has been no real news on this.&lt;/p&gt;
 &lt;p&gt;After all the recent conflicts over Android, the removal of Google Search from iPhone shouldn’t come as a surprise. Google has been rumored to be paying around $100 million dollars a year to Apple for the search rights, and ads that serves on the iPhone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to use Office 2010 RTM Free for 6 Months</title>
-      <link>https://example.org/posts/2010-05-14-how-to-use-office-2010-rtm-free-for-6-months/</link>
+      <link>//localhost:1313/posts/2010-05-14-how-to-use-office-2010-rtm-free-for-6-months/</link>
       <pubDate>Fri, 14 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-05-14-how-to-use-office-2010-rtm-free-for-6-months/</guid>
+      <guid>//localhost:1313/posts/2010-05-14-how-to-use-office-2010-rtm-free-for-6-months/</guid>
       <description>&lt;p&gt;Now that Microsoft has released Office 2010 Final build officially to public, you can download the 60-day trial version from the link &lt;a href=&#34;http://www.microsoft.com/office/2010/en/download-office-professional-plus/default.aspx&#34; title=&#34;http://www.microsoft.com/office/2010/en/download-office-professional-plus/default.aspx&#34;&gt;http://www.microsoft.com/office/2010/en/download-office-professional-plus/default.aspx&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;After installing it, user will have initial 30 days of free evaluation period before having to activate the product for lifetime continuous usage. Now to extend this expiry period to 6 months, we have to &lt;strong&gt;REARM&lt;/strong&gt; the product. &lt;em&gt;(Just follow the steps below instead of searching for REARM!)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Natal to Launch in October; Confirmed!</title>
-      <link>https://example.org/posts/2010-05-12-microsoft-natal-to-launch-in-october-confirmed/</link>
+      <link>//localhost:1313/posts/2010-05-12-microsoft-natal-to-launch-in-october-confirmed/</link>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-05-12-microsoft-natal-to-launch-in-october-confirmed/</guid>
+      <guid>//localhost:1313/posts/2010-05-12-microsoft-natal-to-launch-in-october-confirmed/</guid>
       <description>&lt;p&gt;Project Natal is a controller free gaming and entertainment experience by Microsoft for the Xbox 360 Video game platform. Experience it at &lt;a href=&#34;http://www.xbox.com/en-us/live/projectnatal/&#34; title=&#34;http://www.xbox.com/en-us/live/projectnatal/&#34;&gt;http://www.xbox.com/en-us/live/projectnatal/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=8YtXrHi5NfY&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/S-qyCmvsTcI/AAAAAAAABL0/xUl95_TQ7VQ/video00dc146ec3ea%5B3%5D.jpg?imgmax=800&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The latest scoop  in the series confirms that Microsoft plans to launch Natal in October this year. This was confirmed by Syed Bilal Tariq speaking to &lt;em&gt;GamerTagRadio&lt;/em&gt; who happens to be the Marketing Manager for Microsoft Saudi Arabia.&lt;/p&gt;
@@ -1057,9 +1057,9 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Microsoft launches Docs.com</title>
-      <link>https://example.org/posts/2010-04-22-microsoft-launches-docs-com/</link>
+      <link>//localhost:1313/posts/2010-04-22-microsoft-launches-docs-com/</link>
       <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-04-22-microsoft-launches-docs-com/</guid>
+      <guid>//localhost:1313/posts/2010-04-22-microsoft-launches-docs-com/</guid>
       <description>&lt;p&gt;Microsoft today announced the launch of a new beta Facebook app from FUSE Labs called “Docs”, also available at  &lt;strong&gt;docs.com&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Built on Microsoft Office 2010, the Docs app enables Facebook users for the first time to create and share Microsoft Office documents directly with their Facebook friends, using the Office tools they already know.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Discover. Create. Share.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -1067,25 +1067,25 @@ A new feature called &lt;em&gt;Liked Results&lt;/em&gt;, which uses Facebook “
     </item>
     <item>
       <title>Microsoft Visual Studio 2010 &amp;amp; .NET Framework 4 Available Now</title>
-      <link>https://example.org/posts/2010-04-13-microsoft-visual-studio-2010-net-framework-4-available-now/</link>
+      <link>//localhost:1313/posts/2010-04-13-microsoft-visual-studio-2010-net-framework-4-available-now/</link>
       <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-04-13-microsoft-visual-studio-2010-net-framework-4-available-now/</guid>
+      <guid>//localhost:1313/posts/2010-04-13-microsoft-visual-studio-2010-net-framework-4-available-now/</guid>
       <description>&lt;p&gt;From Microsoft News Center:&lt;/p&gt;
 &lt;p&gt;Kicking off a global launch consisting of more than 150 developer-focused events, Microsoft Corp. announced the general availability of Visual Studio 2010 and .NET Framework 4. The company also announced that Silverlight 4 will release to Web (RTW) later in the week. Together, these technologies simplify the entire development process, enabling developers to target new platforms and build high-quality applications. Developers will be able to download Visual Studio 2010 and .NET Framework 4 in conjunction with the Microsoft Visual Studio Conference &amp;amp; Expo launch event in Las Vegas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IE9 Screenshots Leaked</title>
-      <link>https://example.org/posts/2010-04-02-ie9-screenshots-leaked/</link>
+      <link>//localhost:1313/posts/2010-04-02-ie9-screenshots-leaked/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-04-02-ie9-screenshots-leaked/</guid>
+      <guid>//localhost:1313/posts/2010-04-02-ie9-screenshots-leaked/</guid>
       <description>&lt;p&gt;A Chinese website has posted IE 9 preview screenshots and said it will use the Metro UI, the same which is used in Zune HD and Windows Phone 7 series interface.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://lh5.ggpht.com/_40bmzDo_mBs/S7Xg01e8HAI/AAAAAAAABD4/vL53pnmZEUk/s1600-h/image%5B14%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;images/image%5B15%5D.png&#34;&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://lh3.ggpht.com/_40bmzDo_mBs/S7Xg47iGCMI/AAAAAAAABEE/6Rtys8loNrQ/image_thumb%5B11%5D.png?imgmax=800&#34; title=&#34;image&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OfficeTalk – Twitter like service from Microsoft</title>
-      <link>https://example.org/posts/2010-03-24-officetalk-twitter-like-service-from-microsoft/</link>
+      <link>//localhost:1313/posts/2010-03-24-officetalk-twitter-like-service-from-microsoft/</link>
       <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-03-24-officetalk-twitter-like-service-from-microsoft/</guid>
+      <guid>//localhost:1313/posts/2010-03-24-officetalk-twitter-like-service-from-microsoft/</guid>
       <description>&lt;p&gt;Microsoft is testing a microblogging service – Office Talk that is much like Twitter.&lt;br&gt;
 OfficeTalk is being developed by OfficeLabs, the MS lab for testing internally developed ideas.&lt;br&gt;
 The service looks almost identical to Twitter.&lt;br&gt;
@@ -1095,25 +1095,25 @@ Few words from the official website:&lt;br&gt;
     </item>
     <item>
       <title>Windows Live Messenger 2010 Leaked</title>
-      <link>https://example.org/posts/2010-03-22-windows-live-messenger-2010-leaked/</link>
+      <link>//localhost:1313/posts/2010-03-22-windows-live-messenger-2010-leaked/</link>
       <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-03-22-windows-live-messenger-2010-leaked/</guid>
+      <guid>//localhost:1313/posts/2010-03-22-windows-live-messenger-2010-leaked/</guid>
       <description>&lt;p&gt;Finally, a build of the Windows Live Essentials Wave 4 has been leaked!&lt;/p&gt;
 &lt;p&gt;Features including the different views in Messenger (social, expanded contacts and a more familiar view of the contact list) are up and running, though features such as Facebook Chat are not.&lt;/p&gt;
 &lt;p&gt;Download links on request!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft announces Windows 7 SP1</title>
-      <link>https://example.org/posts/2010-03-20-microsoft-announces-windows-7-sp1/</link>
+      <link>//localhost:1313/posts/2010-03-20-microsoft-announces-windows-7-sp1/</link>
       <pubDate>Sat, 20 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-03-20-microsoft-announces-windows-7-sp1/</guid>
+      <guid>//localhost:1313/posts/2010-03-20-microsoft-announces-windows-7-sp1/</guid>
       <description>&lt;p&gt;Microsoft today announced service packs for both Windows 7 and Windows Server 2008 R2, but declined to set a release date or a schedule for getting a beta in users&amp;rsquo; hands.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Dev title on Windows Phone 7 Programming</title>
-      <link>https://example.org/posts/2010-03-16-first-dev-title-on-windows-phone-7-programming/</link>
+      <link>//localhost:1313/posts/2010-03-16-first-dev-title-on-windows-phone-7-programming/</link>
       <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-03-16-first-dev-title-on-windows-phone-7-programming/</guid>
+      <guid>//localhost:1313/posts/2010-03-16-first-dev-title-on-windows-phone-7-programming/</guid>
       <description>&lt;p&gt;Microsoft Press just made this draft version of the Programming Windows Phone 7 Series ebook from Charles Petzold available as a preview download.&lt;/p&gt;
 &lt;p&gt;More Details:&lt;br&gt;
 &lt;a href=&#34;http://blogs.msdn.com/microsoft&#34;&gt;http://blogs.msdn.com/microsoft&lt;/a&gt;_press/archive/2010/03/15/free-ebook-programming-windows-phone-7-series-draft-preview.aspx&lt;/p&gt;
@@ -1121,9 +1121,9 @@ Few words from the official website:&lt;br&gt;
     </item>
     <item>
       <title>Internet Explorer 9 Test Drive</title>
-      <link>https://example.org/posts/2010-03-16-internet-explorer-9-test-drive/</link>
+      <link>//localhost:1313/posts/2010-03-16-internet-explorer-9-test-drive/</link>
       <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2010-03-16-internet-explorer-9-test-drive/</guid>
+      <guid>//localhost:1313/posts/2010-03-16-internet-explorer-9-test-drive/</guid>
       <description>&lt;p&gt;Microsoft Launches First IE9 Developer Preview with Support for Hardware-Accelerated HTML5. It is available for download from &lt;a href=&#34;https://www.IETestDrive.com&#34;&gt;www.IETestDrive.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Direct Download Link:&lt;/strong&gt;    &lt;a href=&#34;http://download.microsoft.com/download/7/F/D/7FD512A8-026C-4388-B598-D763185249CF/iepreview.msi&#34;&gt;http://download.microsoft.com/download/7/F/D/7FD512A8-026C-4388-B598-D763185249CF/iepreview.msi&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt;    14.2MB&lt;/p&gt;

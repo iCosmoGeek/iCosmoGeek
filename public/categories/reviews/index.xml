@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reviews on iCosmoGeek</title>
-    <link>https://example.org/categories/reviews/</link>
+    <link>//localhost:1313/categories/reviews/</link>
     <description>Recent content in Reviews on iCosmoGeek</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Jan 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Giveaway] Rs. 1500 Flipkart Gift Card From Cuponation.in</title>
-      <link>https://example.org/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/</link>
+      <link>//localhost:1313/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/</link>
       <pubDate>Thu, 24 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/</guid>
+      <guid>//localhost:1313/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/</guid>
       <description>&lt;p&gt;We have a super awesome giveaway lined up for you (entry form at the bottom of the post). This is from Cuponation.in. There are offering a Flipkart gift card worth Rs. 1500 exclusive only for iCosmoGeek readers.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/01/Huge-logo-Cuponation-Corp.png&#34;&gt;&lt;img alt=&#34;Huge logo Cuponation Corp&#34; loading=&#34;lazy&#34; src=&#34;https://example.org/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/images/Huge-logo-Cuponation-Corp-1024x505.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iCosmoGeek.com/wp-content/uploads/2013/01/Huge-logo-Cuponation-Corp.png&#34;&gt;&lt;img alt=&#34;Huge logo Cuponation Corp&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/2013-01-24-giveaway-rs-1500-flipkart-gift-card-from-cuponation-in/images/Huge-logo-Cuponation-Corp-1024x505.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.cuponation.in/&#34;&gt;CupoNation&lt;/a&gt; is a startup company focused on providing a collection of the most valuable voucher codes to help Indian online shoppers buy the products they want a price that is more affordable. CupoNation.in website offers discount coupons, deals and voucher codes providing up to 60% discount on a vast selection of categories – ranging from items like Electronics, Books, Apparel, Flowers and Gifts to services like Insurance, Restaurant, Movies and many more. Out of these categories, you can avail coupon codes by copying and pasting in the promo field on the retailer’s checkout page.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Samsung 27-inch Series 9 LED Monitors [Review]</title>
-      <link>https://example.org/posts/2012-09-20-samsung-27-inch-series-9-led-monitors-review/</link>
+      <link>//localhost:1313/posts/2012-09-20-samsung-27-inch-series-9-led-monitors-review/</link>
       <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-09-20-samsung-27-inch-series-9-led-monitors-review/</guid>
+      <guid>//localhost:1313/posts/2012-09-20-samsung-27-inch-series-9-led-monitors-review/</guid>
       <description>&lt;p&gt;After Samsung unvieled their prestigious Series 9 display monitors at CES press event 2012, there was a good reponse from tech enthusiasts around the world who got a chance to hands-on these 27-inch, 2560 x 1440 LED monitors with billion color display.&lt;/p&gt;
 &lt;p&gt;It uses a Plane to Line Switching (PLS) panel which is similar to In-Plane Switching (IPS) technology, but according to Samsung, they provide better viewing angles and image quality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PressReader: 2100&#43; Full Content Newspapers &amp; Magazines In A Single App [Review]</title>
-      <link>https://example.org/posts/2012-06-22-pressreader-2100-full-content-newspapers-magazines-in-a-single-app-review/</link>
+      <link>//localhost:1313/posts/2012-06-22-pressreader-2100-full-content-newspapers-magazines-in-a-single-app-review/</link>
       <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2012-06-22-pressreader-2100-full-content-newspapers-magazines-in-a-single-app-review/</guid>
+      <guid>//localhost:1313/posts/2012-06-22-pressreader-2100-full-content-newspapers-magazines-in-a-single-app-review/</guid>
       <description>&lt;p&gt;Are you a news junkie who loves to read newspapers and magazines daily? Here is an amazing digital reading app which allows you to read over 2100+ full content from 95 countries in 54 languages – all in just one single app – PressReader.&lt;/p&gt;
 &lt;p&gt;This digital newspaper kiosk app runs on iOS including the new iPad (with gorgeous Retina Display), iPhone, iPod, Android, BlackBerry, Windows Phone and Windows 7 Slate PC. The app conveniently allows technology and mobile enthusiasts to read their favorite newspaper and magazine where ever they are in the world. Some of the exclusive features of this app include landscape and portrait orientation, automatic subscriptions, zooming articles, listening to publications, social media sharing.&lt;/p&gt;</description>
     </item>

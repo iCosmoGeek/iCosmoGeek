@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Elon-Musk on iCosmoGeek</title>
-    <link>https://example.org/tags/elon-musk/</link>
+    <link>//localhost:1313/tags/elon-musk/</link>
     <description>Recent content in Elon-Musk on iCosmoGeek</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/elon-musk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/elon-musk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twitter employees told to send weekly updates to Elon Musk</title>
-      <link>https://example.org/posts/2022-11-22-twitter-employees-told-to-send-weekly-updates-to-elon-musk/</link>
+      <link>//localhost:1313/posts/2022-11-22-twitter-employees-told-to-send-weekly-updates-to-elon-musk/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/2022-11-22-twitter-employees-told-to-send-weekly-updates-to-elon-musk/</guid>
+      <guid>//localhost:1313/posts/2022-11-22-twitter-employees-told-to-send-weekly-updates-to-elon-musk/</guid>
       <description>&lt;p&gt;Another day, another news about Elon Musk and Twitter.&lt;/p&gt;
 &lt;p&gt;Twitter employees that are coding or doing technical work are now expected to submit a weekly summary of their work. The summary will include what they worked on, what they hoped to complete, and specific lines of code they wrote. Elon Musk is directly overseeing Twitter&amp;rsquo;s engineering department.&lt;/p&gt;
 &lt;blockquote&gt;
