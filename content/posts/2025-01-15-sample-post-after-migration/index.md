@@ -6,4 +6,6 @@ title = 'Sample Post After Migration'
 
 This is a sample post on this site after migrating it from Wordpress to Hugo.
 
-Publishing from VS Code.
+Publishing from VS Code Desktop.
+
+Publishing from VS Code Browser Online.
