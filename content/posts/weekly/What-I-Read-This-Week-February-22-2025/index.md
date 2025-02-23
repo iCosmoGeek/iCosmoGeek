@@ -1,6 +1,6 @@
 +++
 title = "What I Read This week - February 22, 2025"
-date = "2025-02-20"
+date = "2025-02-22"
 draft = false
 +++
 
