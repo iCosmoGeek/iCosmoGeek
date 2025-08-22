@@ -1,0 +1,60 @@
+name: Publish weekly roundup
+
+on:
+  workflow_dispatch:
+    inputs:
+      week_start:
+        description: 'ISO date (YYYY-MM-DD) for the Monday to publish'
+        required: false
+  schedule:
+    - cron: '0 15 * * MON' # 15:00 UTC Mondays (~8am PT)
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compute week start
+        id: week
+        run: |
+          if [ -n "${{ github.event.inputs.week_start }}" ]; then
+            echo "week=${{ github.event.inputs.week_start }}" >> $GITHUB_OUTPUT
+          else
+            echo "week=$(date -u -d 'monday this week' +%F)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Generate weekly post
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SHEET_NAME: iCGWeeklyReads
+          CONTENT_DIR: content/posts/weekly
+          TIMEZONE: America/Los_Angeles
+          WEEK_START_OVERRIDE: ${{ steps.week.outputs.week }}
+        run: |
+          python scripts/publish_weekly.py
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Weekly Reads for ${{ steps.week.outputs.week }}"
+          branch: "weekly/${{ steps.week.outputs.week }}"
+          title: "Weekly Reads — ${{ steps.week.outputs.week }}"
+          body: "Automated roundup generated from Google Sheets for week starting ${{ steps.week.outputs.week }}."
+          add-paths: |
+            content/posts/weekly/**/*
