@@ -3,7 +3,7 @@ import os, json, sys, re
 from pathlib import Path
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
@@ -76,9 +76,8 @@ def sanitize_text(s: str) -> str:
 def yaml_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
-def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
-    # Format title as "What I Read This Week — August 18, 2025"
-    readable_date = week_date.strftime("%B %-d, %Y")  # e.g., August 18, 2025
+def build_markdown(week_date: date, entries: List[Dict[str, str]], weekly_intro: str) -> str:
+    readable_date = week_date.strftime("%B %-d, %Y")
     title = f"What I Read This Week — {readable_date}"
 
     fm = [
@@ -90,6 +89,9 @@ def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
         "---",
         "",
         f"_A curated roundup for the week starting {readable_date}._",
+        "",
+        "## Summary",
+        weekly_intro.strip(),
         "",
     ]
 
@@ -104,7 +106,7 @@ def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
         body_lines.append(s)
         if tagline:
             body_lines.append(tagline)
-        body_lines.append("")  # spacer
+        body_lines.append("")
 
     return "\n".join(fm + body_lines).strip() + "\n"
 
@@ -115,6 +117,8 @@ def main():
     print(f"Target Monday: {target}", file=sys.stderr)
 
     selected = []
+    weekly_intro = ""
+
     for r in rows:
         def col(name): 
             i = idx.get(name)
@@ -131,6 +135,7 @@ def main():
         title = col("Title")
         url = col("URL")
         tags = col("Tags")
+        intro = col("WeeklyIntro")
         if not title or not url:
             continue
         selected.append({
@@ -139,6 +144,7 @@ def main():
             "Summary": summary,
             "Tags": tags
         })
+        weekly_intro = intro or weekly_intro  # overwrite each time to get last one
 
     if not selected:
         print("No entries to publish for this week. Exiting.", file=sys.stderr)
@@ -147,7 +153,7 @@ def main():
     out_dir = CONTENT_DIR / target.isoformat()
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / "index.md"
-    md = build_markdown(target, selected)
+    md = build_markdown(target, selected, weekly_intro)
     out_file.write_text(md, encoding="utf-8")
     print(f"Wrote {out_file}", file=sys.stderr)
 
