@@ -58,3 +58,5 @@ jobs:
           body: "Automated roundup generated from Google Sheets for week starting ${{ steps.week.outputs.week }}."
           add-paths: |
             content/posts/weekly/**/*
+             env:
+    GITHUB_TOKEN: ${{ secrets.CREATE_PR_TOKEN }}
