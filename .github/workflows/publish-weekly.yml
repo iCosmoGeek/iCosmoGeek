@@ -12,11 +12,13 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
       pull-requests: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Compute week start
@@ -52,10 +54,10 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Weekly Reads for ${{ steps.week.outputs.week }}"
           branch: "weekly/${{ steps.week.outputs.week }}"
           title: "Weekly Reads — ${{ steps.week.outputs.week }}"
           body: "Automated roundup generated from Google Sheets for week starting ${{ steps.week.outputs.week }}."
           add-paths: |
             content/posts/weekly/**/*
-             env:
