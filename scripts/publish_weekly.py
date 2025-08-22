@@ -77,7 +77,10 @@ def yaml_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
-    title = f"Weekly Reads — {week_date.isoformat()}"
+    # Format title as "What I Read This Week — August 18, 2025"
+    readable_date = week_date.strftime("%B %-d, %Y")  # e.g., August 18, 2025
+    title = f"What I Read This Week — {readable_date}"
+
     fm = [
         "---",
         f'title: "{yaml_escape(title)}"',
@@ -86,9 +89,10 @@ def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
         "tags: [weekly, roundup]",
         "---",
         "",
-        f"_A curated roundup for the week starting {week_date.isoformat()}._",
+        f"_A curated roundup for the week starting {readable_date}._",
         "",
     ]
+
     body_lines = []
     for e in entries:
         t = e["Title"]
@@ -100,7 +104,8 @@ def build_markdown(week_date: date, entries: List[Dict[str, str]]) -> str:
         body_lines.append(s)
         if tagline:
             body_lines.append(tagline)
-        body_lines.append("")
+        body_lines.append("")  # spacer
+
     return "\n".join(fm + body_lines).strip() + "\n"
 
 def main():
