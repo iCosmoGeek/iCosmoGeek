@@ -59,4 +59,3 @@ jobs:
           add-paths: |
             content/posts/weekly/**/*
              env:
-    GITHUB_TOKEN: ${{ secrets.CREATE_PR_TOKEN }}
