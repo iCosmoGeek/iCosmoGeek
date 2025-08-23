@@ -1,0 +1,32 @@
+name: Share Weekly Post on Social
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/posts/weekly/**'
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    env:
+      SITE_BASE_URL: ${{ secrets.SITE_BASE_URL }}
+      CONTENT_DIR: content/posts/weekly
+      LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+      LINKEDIN_OWNER: ${{ secrets.LINKEDIN_OWNER }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Share latest weekly post
+        run: python scripts/share_social.py
