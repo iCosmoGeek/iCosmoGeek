@@ -32,8 +32,7 @@ jobs:
 
       # Install all Python packages needed for LI, FB, and X posting
       - name: Install dependencies
-        run: |
-          pip install requests requests-oauthlib
+        run: pip install -r requirements.txt
 
       - name: Share latest weekly post
         run: python scripts/share_social.py
