@@ -2,6 +2,7 @@
 import os, sys, re, json, time
 from pathlib import Path
 import requests
+from requests_oauthlib import OAuth1  # For X/Twitter OAuth 1.0a
 
 CONTENT_DIR = Path(os.environ.get("CONTENT_DIR", "content/posts/weekly"))
 SITE_BASE_URL = os.environ.get("SITE_BASE_URL", "").rstrip("/")
@@ -10,6 +11,11 @@ LINKEDIN_TOKEN = os.environ.get("LINKEDIN_TOKEN", "").strip()
 LINKEDIN_OWNER = os.environ.get("LINKEDIN_OWNER", "").strip()
 FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
 FB_PAGE_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
+
+X_API_KEY = os.getenv("X_API_KEY", "").strip()
+X_API_SECRET = os.getenv("X_API_SECRET", "").strip()
+X_ACCESS_TOKEN = os.getenv("X_ACCESS_TOKEN", "").strip()
+X_ACCESS_SECRET = os.getenv("X_ACCESS_SECRET", "").strip()
 
 MAX_RETRIES = 3
 RETRY_DELAY = 5  # seconds
@@ -146,6 +152,22 @@ def post_facebook(text: str, url: str):
     resilient_post(do_request, "Facebook")
 
 
+def post_twitter(text: str):
+    if not all([X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET]):
+        print("Twitter: missing credentials; skipping.", file=sys.stderr)
+        return
+
+    tweet_text = text if len(text) <= 280 else text[:277] + "…"
+
+    def do_request():
+        auth = OAuth1(X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET)
+        url = "https://api.x.com/2/tweets"
+        payload = {"text": tweet_text}
+        return requests.post(url, auth=auth, json=payload, timeout=20)
+
+    resilient_post(do_request, "Twitter")
+
+
 def main():
     folder = latest_week_folder()
     md_path = folder / "index.md"
@@ -165,6 +187,7 @@ def main():
     print("Prepared social post:\n", text, "\n")
     post_linkedin(text, url)
     post_facebook(text, url)
+    post_twitter(text)
 
 
 if __name__ == "__main__":
