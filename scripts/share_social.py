@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os, sys, re, json
+import os, sys, re, json, time
 from pathlib import Path
 import requests
 
@@ -7,9 +7,13 @@ CONTENT_DIR = Path(os.environ.get("CONTENT_DIR", "content/posts/weekly"))
 SITE_BASE_URL = os.environ.get("SITE_BASE_URL", "").rstrip("/")
 
 LINKEDIN_TOKEN = os.environ.get("LINKEDIN_TOKEN", "").strip()
-LINKEDIN_OWNER = os.environ.get("LINKEDIN_OWNER", "").strip()  # e.g., urn:li:person:...
+LINKEDIN_OWNER = os.environ.get("LINKEDIN_OWNER", "").strip()
 FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "").strip()
 FB_PAGE_TOKEN = os.environ.get("FB_PAGE_TOKEN", "").strip()
+
+MAX_RETRIES = 3
+RETRY_DELAY = 5  # seconds
+
 
 def latest_week_folder() -> Path:
     candidates = []
@@ -23,6 +27,7 @@ def latest_week_folder() -> Path:
         print("ERROR: No weekly folders found", file=sys.stderr)
         sys.exit(1)
     return sorted(candidates)[-1]
+
 
 def parse_frontmatter_and_body(md: str):
     title = ""
@@ -39,6 +44,7 @@ def parse_frontmatter_and_body(md: str):
                     fm[k.strip()] = v.strip().strip('"')
             title = fm.get("title", "")
     return title or fm.get("title", ""), body
+
 
 def extract_summary_paragraph(body: str) -> str:
     lines = body.splitlines()
@@ -62,6 +68,7 @@ def extract_summary_paragraph(body: str) -> str:
     text = " ".join(para).strip()
     return re.sub(r"\s+", " ", text)
 
+
 def first_sentence(text: str, max_len: int = 240) -> str:
     s_match = re.split(r"(?<=[.!?])\s+", text)
     snippet = s_match[0] if s_match else text
@@ -70,52 +77,74 @@ def first_sentence(text: str, max_len: int = 240) -> str:
     t = snippet[:max_len].rsplit(" ", 1)[0].rstrip(",;:—-")
     return t + "…"
 
+
 def build_post_text(title: str, summary: str, url: str) -> str:
     lead = first_sentence(summary, max_len=240)
     return f"{title}\n{lead}\nRead: {url}"
+
+
+def resilient_post(request_func, platform: str):
+    """Wrapper to retry a post request with logging."""
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = request_func()
+            if resp.status_code < 400:
+                print(f"{platform}: posted.")
+                return
+            else:
+                print(f"{platform} error {resp.status_code}: {resp.text}", file=sys.stderr)
+        except requests.RequestException as e:
+            print(f"{platform} request failed: {e}", file=sys.stderr)
+        if attempt < MAX_RETRIES:
+            print(f"{platform}: retrying in {RETRY_DELAY}s... (attempt {attempt}/{MAX_RETRIES})")
+            time.sleep(RETRY_DELAY)
+    print(f"{platform}: failed after {MAX_RETRIES} attempts.", file=sys.stderr)
+
 
 def post_linkedin(text: str, url: str):
     if not (LINKEDIN_TOKEN and LINKEDIN_OWNER):
         print("LinkedIn: missing token or owner; skipping.", file=sys.stderr)
         return
-    payload = {
-        "owner": LINKEDIN_OWNER,
-        "text": {"text": text},
-        "content": {
-            "contentEntities": [{"entityLocation": url}],
-            "title": text.split("\n", 1)[0]
-        },
-        "distribution": {"linkedInDistributionTarget": {}}
-    }
-    resp = requests.post(
-        "https://api.linkedin.com/v2/shares",
-        headers={
-            "Authorization": f"Bearer {LINKEDIN_TOKEN}",
-            "X-Restli-Protocol-Version": "2.0.0",
-            "Content-Type": "application/json"
-        },
-        data=json.dumps(payload),
-        timeout=20
-    )
-    if resp.status_code >= 400:
-        print(f"LinkedIn error {resp.status_code}: {resp.text}", file=sys.stderr)
-    else:
-        print("LinkedIn: posted.")
+
+    def do_request():
+        payload = {
+            "owner": LINKEDIN_OWNER,
+            "text": {"text": text},
+            "content": {
+                "contentEntities": [{"entityLocation": url}],
+                "title": text.split("\n", 1)[0]
+            },
+            "distribution": {"linkedInDistributionTarget": {}}
+        }
+        return requests.post(
+            "https://api.linkedin.com/v2/shares",
+            headers={
+                "Authorization": f"Bearer {LINKEDIN_TOKEN}",
+                "X-Restli-Protocol-Version": "2.0.0",
+                "Content-Type": "application/json"
+            },
+            data=json.dumps(payload),
+            timeout=20
+        )
+
+    resilient_post(do_request, "LinkedIn")
+
 
 def post_facebook(text: str, url: str):
     if not (FB_PAGE_ID and FB_PAGE_TOKEN):
         print("Facebook: missing page id/token; skipping.", file=sys.stderr)
         return
-    api = f"https://graph.facebook.com/v19.0/{FB_PAGE_ID}/feed"
-    resp = requests.post(api, data={
-        "message": text,
-        "link": url,
-        "access_token": FB_PAGE_TOKEN
-    }, timeout=20)
-    if resp.status_code >= 400:
-        print(f"Facebook error {resp.status_code}: {resp.text}", file=sys.stderr)
-    else:
-        print("Facebook: posted.")
+
+    def do_request():
+        api = f"https://graph.facebook.com/v19.0/{FB_PAGE_ID}/feed"
+        return requests.post(api, data={
+            "message": text,
+            "link": url,
+            "access_token": FB_PAGE_TOKEN
+        }, timeout=20)
+
+    resilient_post(do_request, "Facebook")
+
 
 def main():
     folder = latest_week_folder()
@@ -136,6 +165,7 @@ def main():
     print("Prepared social post:\n", text, "\n")
     post_linkedin(text, url)
     post_facebook(text, url)
+
 
 if __name__ == "__main__":
     main()
