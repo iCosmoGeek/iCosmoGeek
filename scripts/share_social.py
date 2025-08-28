@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import os, sys, re, json
 from pathlib import Path
-import datetime as dt
 import requests
 
 CONTENT_DIR = Path(os.environ.get("CONTENT_DIR", "content/posts/weekly"))
@@ -23,7 +22,6 @@ def latest_week_folder() -> Path:
     if not candidates:
         print("ERROR: No weekly folders found", file=sys.stderr)
         sys.exit(1)
-    # Dates in ISO sort chronologically; pick max
     return sorted(candidates)[-1]
 
 def parse_frontmatter_and_body(md: str):
@@ -51,7 +49,6 @@ def extract_summary_paragraph(body: str) -> str:
             break
     if summary_idx is None:
         return ""
-    # Collect next non-empty paragraph until a blank line
     para = []
     for line in lines[summary_idx+1:]:
         if line.strip() == "":
@@ -59,21 +56,17 @@ def extract_summary_paragraph(body: str) -> str:
                 break
             else:
                 continue
-        # stop if next heading
         if line.strip().startswith("#"):
             break
         para.append(line.rstrip())
     text = " ".join(para).strip()
-    # Collapse spaces
     return re.sub(r"\s+", " ", text)
 
 def first_sentence(text: str, max_len: int = 240) -> str:
-    # Keep it concise for social
     s_match = re.split(r"(?<=[.!?])\s+", text)
     snippet = s_match[0] if s_match else text
     if len(snippet) <= max_len:
         return snippet
-    # Trim gracefully
     t = snippet[:max_len].rsplit(" ", 1)[0].rstrip(",;:—-")
     return t + "…"
 
@@ -85,17 +78,14 @@ def post_linkedin(text: str, url: str):
     if not (LINKEDIN_TOKEN and LINKEDIN_OWNER):
         print("LinkedIn: missing token or owner; skipping.", file=sys.stderr)
         return
-    # Use v2/shares (simpler than UGC). Requires w_member_social and owner URN.
     payload = {
         "owner": LINKEDIN_OWNER,
-        "text": { "text": text },
+        "text": {"text": text},
         "content": {
-            "contentEntities": [
-                {"entityLocation": url}
-            ],
+            "contentEntities": [{"entityLocation": url}],
             "title": text.split("\n", 1)[0]
         },
-        "distribution": { "linkedInDistributionTarget": {} }
+        "distribution": {"linkedInDistributionTarget": {}}
     }
     resp = requests.post(
         "https://api.linkedin.com/v2/shares",
@@ -144,8 +134,6 @@ def main():
     text = build_post_text(title or f"What I Read This Week — {week_slug}", summary or "", url)
 
     print("Prepared social post:\n", text, "\n")
-
-    # Post per platform (skip if secrets not present)
     post_linkedin(text, url)
     post_facebook(text, url)
 
