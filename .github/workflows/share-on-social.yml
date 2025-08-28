@@ -16,6 +16,11 @@ jobs:
       LINKEDIN_OWNER: ${{ secrets.LINKEDIN_OWNER }}
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      X_API_KEY: ${{ secrets.X_API_KEY }}              # NEW — for Twitter/X
+      X_API_SECRET: ${{ secrets.X_API_SECRET }}        # NEW — for Twitter/X
+      X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}    # NEW — for Twitter/X
+      X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}  # NEW — for Twitter/X
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -25,8 +30,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install deps
-        run: pip install requests
+      # Install all Python packages needed for LI, FB, and X posting
+      - name: Install dependencies
+        run: |
+          pip install requests requests-oauthlib
 
       - name: Share latest weekly post
         run: python scripts/share_social.py
