@@ -1,6 +1,6 @@
 +++
 title = "I Built an AI-Powered Social Media Platform in a Weekend by 'Vibe Coding'"
-date = "2025-10-23T08:00:00-08:00"
+date = "2025-10-23T16:00:00Z"
 draft = false
 tags = ["AI", "Innovation", "BuildInPublic", "VibeCoding", "FastAPI", "NextJS", "ClaudeSonnet", "GitHubCopilot", "Automation", "Entrepreneurship", "Learning", "IndieHacking"]
 categories = ["Projects", "AI", "Development"]
